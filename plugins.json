@@ -1,1 +1,68 @@
-[ ]
+[
+  {
+    "id": "nf-amazon",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.0.0/nf-amazon-1.0.0.zip",
+        "date": "2021-01-04T21:00:14.872+01:00",
+        "sha512sum": "5abe4cbc643ca0333cba545846494b17488d19d17049bf9d4d9ac9ec108352b54f147abb15c48581b44fdd09097e3607aed77e2eae91c07da32c2cd71f4f852f"
+      }
+    ]
+  },
+  {
+    "id": "nf-console",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/nextflow-io/nf-console/releases/download/1.0.0/nf-console-1.0.0.zip",
+        "date": "2021-01-04T21:00:14.872+01:00",
+        "sha512sum": "4e681a539a0a902c1d93bce04cb2a5e49ed286581bc1ea0202044d040566f583aa0efabe0865d351eb284e4962020bc23d62075f52b04a06ab655b53e8aeea34"
+      }
+    ]
+  },
+  {
+    "id": "nf-google",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/nextflow-io/nf-google/releases/download/1.0.0/nf-google-1.0.0.zip",
+        "date": "2021-01-04T21:00:14.872+01:00",
+        "sha512sum": "535d8d0145745532569cf88e04a8a81e9b56e6d570b2ee19aeb0d3c5ff0c39b45f73cb24e77bbe4b63ca3d10dceab66c681c89e29f37c9d165d06b107049fa20"
+      }
+    ]
+  },
+  {
+    "id": "nf-ignite",
+    "releases": [
+      {
+        "version": "1.2.0",
+        "url": "https://github.com/nextflow-io/nf-ignite/releases/download/1.2.0/nf-ignite-1.2.0.zip",
+        "date": "2021-01-04T21:00:14.872+01:00",
+        "sha512sum": "bdd85adff953c3c4bb1278cf011f236f192032909d86bf0f7da5f2af6ace98f305f4ceb458588b0e94b66e138d51eac94e35a40ad26852d2d7a99360a56ea9b1"
+      }
+    ]
+  },
+  {
+    "id": "nf-tower",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/nextflow-io/nf-tower/releases/download/1.0.0/nf-tower-1.0.0.zip",
+        "date": "2021-01-04T21:00:14.872+01:00",
+        "sha512sum": "47e578fe55541e2902259977f922f5c48ae45c081957138362b018ce08dd578f52bb2135370f52785301219d6457428e4e4204df57326724b7a640cc337e2691"
+      }
+    ]
+  },
+  {
+    "id": "nf-ga4gh",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/nextflow-io/nf-ga4gh/releases/download/1.0.0/nf-ga4gh-1.0.0.zip",
+        "date": "2021-01-04T21:00:14.872+01:00",
+        "sha512sum": "52d27495c2e6e0340e836d3af652a545d5a20946fb6de81ce2a96d16e8017d0f586a89cc695cec14adb443240b7e8034e2b513da933bf311cb3b1ade02fa97ce"
+      }
+    ]
+  }
+]
