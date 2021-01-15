@@ -109,6 +109,12 @@
         "url": "https://github.com/seqeralabs/xpack-amzn/releases/download/1.0.0-rc0/xpack-amzn-1.0.0-rc0.zip",
         "date": "2021-01-04T23:21:38.553+01:00",
         "sha512sum": "3f0b6a283799eda6c99c4da737eeb7dbf39ff1e905b438a5116f8e23e4ff0dfc02c05a76b0ed690cf3a6bc0371dadf561b69426c493577af3842942789e843fa"
+      },
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/seqeralabs/xpack-amzn/releases/download/1.0.0/xpack-amzn-1.0.0.zip",
+        "date": "2021-01-15T19:04:20.117+01:00",
+        "sha512sum": "e6532821ee6941aa7c5d3ba90771459928e1b9ad48246e6459f6507e27c382b275e597c192100404a4ea5aaadf050bf98683a9cbef81ca81c7808c3606341e60"
       }
     ]
   }
