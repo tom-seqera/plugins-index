@@ -47,6 +47,12 @@
         "url": "https://github.com/nextflow-io/nf-google/releases/download/1.0.1/nf-google-1.0.1.zip",
         "date": "2021-01-15T11:44:57.809+01:00",
         "sha512sum": "bb105b7c4d8b273dba8df720cb8b47faf4722c5620e449075b44bffa930602d46862ca4f9f147eb92b7245094e58c11c9aa8b51d09dadbb3ad643c6a096cc34c"
+      },
+      {
+        "version": "1.0.2",
+        "url": "https://github.com/nextflow-io/nf-google/releases/download/1.0.2/nf-google-1.0.2.zip",
+        "date": "2021-02-16T18:26:38.163+01:00",
+        "sha512sum": "52e28ebbf389398d80928dfe2b295b3b1292c5c3cd1a60f87db6e2b7947f0d02738117f53243f1c3642a5f28e2f7054e0e93d9408b61b3edc31046fd4c421c7a"
       }
     ]
   },
