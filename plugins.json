@@ -138,6 +138,12 @@
         "url": "https://github.com/nextflow-io/nf-azure/releases/download/0.9.1/nf-azure-0.9.1.zip",
         "date": "2021-02-05T12:45:14.414+01:00",
         "sha512sum": "84eb6339b17a0851562174fb2efddba77b5a68178fd7b8731f3315aeddf4550ec60459970ab64389f751092d632ce52b86fdb80ef19d3e3316e1f2142a66d7b4"
+      },
+      {
+        "version": "0.9.2",
+        "url": "https://github.com/nextflow-io/nf-azure/releases/download/0.9.2/nf-azure-0.9.2.zip",
+        "date": "2021-02-23T06:56:44.41+01:00",
+        "sha512sum": "df88c92533c88a2885d7daaeeb935f46299eed2c1daf4657f001bd299b27da1b41b917cb8f2c4df06a386ca8e259c9bece7e3a40dc5d54e1e8b13b61606484ea"
       }
     ]
   },
