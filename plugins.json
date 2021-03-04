@@ -167,6 +167,12 @@
         "url": "https://github.com/seqeralabs/xpack-dnanexus/releases/download/1.0.0-beta.1/xpack-dnanexus-1.0.0-beta.1.zip",
         "date": "2021-02-04T16:25:41.824+01:00",
         "sha512sum": "f828a6a348e9a3e9f24cde54f54dad35cecad1abf842efb8d20052f472e19e930d013f1fd3824326b422b054fbf368f1eaf7728624102756036a7b34448bc3e4"
+      },
+      {
+        "version": "1.0.0-beta.2",
+        "url": "https://github.com/seqeralabs/xpack-dnanexus/releases/download/1.0.0-beta.2/xpack-dnanexus-1.0.0-beta.2.zip",
+        "date": "2021-03-04T17:37:31.949+01:00",
+        "sha512sum": "112a533b33ad777f8b6708aaa662de205052c26d43985f44ebce8f7f717a1c41f31e0239eec7a77b144e30c3aa05a3fee41deb6eeedcd0aa7c29a0da1d068103"
       }
     ]
   }
