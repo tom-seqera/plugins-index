@@ -123,6 +123,12 @@
         "url": "https://github.com/nextflow-io/nf-tower/releases/download/1.0.2/nf-tower-1.0.2.zip",
         "date": "2021-03-05T11:52:41.495+01:00",
         "sha512sum": "e73d9dbad6e7693920a85acd91d2d5fc52ce47039c825a10825145e79d5d1fb7e638ff8258e6e53e327a37fdb010584774cba13bd731414e0bdf361256eca7de"
+      },
+      {
+        "version": "1.1.0",
+        "url": "https://github.com/nextflow-io/nf-tower/releases/download/1.1.0/nf-tower-1.1.0.zip",
+        "date": "2021-03-24T10:24:43.263+01:00",
+        "sha512sum": "ea53fa07020a310476f7e6aa1674f645af8e4db2df19ffa7c2d9293506528eccecc49d5cb42e7a908803eaee81eab1f80886800d52c1201d7c09ad7373e687be"
       }
     ]
   },
