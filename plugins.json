@@ -25,6 +25,12 @@
         "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.0.3/nf-amazon-1.0.3.zip",
         "date": "2021-03-17T21:43:28.768+01:00",
         "sha512sum": "cae88a271b3aadd86eae5accddd9f392ff0c49c2e165e24dab9a0ef2036595ed5be875f7faeea672565ebfc83bea50f4dccb44e2e9b52f3bef2b7d91521b01f5"
+      },
+      {
+        "version": "1.0.4",
+        "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.0.4/nf-amazon-1.0.4.zip",
+        "date": "2021-04-08T11:13:24.435+02:00",
+        "sha512sum": "c52056616601cbe4d1e70a39bb562fce59a62196bf2be7058f0e5f572131d7c9ec981e8986eb9dede6f3cfed241d500a931c324070ee72dacb9abfb98fd8f70e"
       }
     ]
   },
@@ -222,6 +228,12 @@
         "url": "https://github.com/nextflow-io/nf-azure/releases/download/0.9.6/nf-azure-0.9.6.zip",
         "date": "2021-03-18T09:00:52.267+01:00",
         "sha512sum": "47440213cef8a5777265e2e001e46561c7e7d755fb45ef6f4504fa2ecaa02a1781618f9975f85bdb4423301f627d08bdacf2a688c99d1369c293a949eedf9d1c"
+      },
+      {
+        "version": "0.9.7",
+        "url": "https://github.com/nextflow-io/nf-azure/releases/download/0.9.7/nf-azure-0.9.7.zip",
+        "date": "2021-04-08T11:25:59.268+02:00",
+        "sha512sum": "84a4e432b39b7a08ed6d44f742394985ebe81982fa42ff99642487d147e4c59081f65e933bf172afd3acbef73873464d79c1a92e8d686c75c9041e87c6c3516d"
       }
     ]
   },
