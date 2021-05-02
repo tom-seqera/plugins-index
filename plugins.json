@@ -31,6 +31,12 @@
         "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.0.4/nf-amazon-1.0.4.zip",
         "date": "2021-04-08T11:13:24.435+02:00",
         "sha512sum": "c52056616601cbe4d1e70a39bb562fce59a62196bf2be7058f0e5f572131d7c9ec981e8986eb9dede6f3cfed241d500a931c324070ee72dacb9abfb98fd8f70e"
+      },
+      {
+        "version": "1.0.5",
+        "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.0.5/nf-amazon-1.0.5.zip",
+        "date": "2021-05-02T18:14:25.057+02:00",
+        "sha512sum": "1639e17a82ef25fb704d6a5f6e9c12b1c571415cd7d5dc217e5784965f60ac2fdf2b72600140bdda7c9ea24777c774ba249a1e50cbfbabd9a0725b127c10f101"
       }
     ]
   },
