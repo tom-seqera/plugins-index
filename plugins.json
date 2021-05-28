@@ -78,6 +78,12 @@
         "url": "https://github.com/nextflow-io/nf-console/releases/download/1.0.2/nf-console-1.0.2.zip",
         "date": "2021-03-05T11:52:41.495+01:00",
         "sha512sum": "c2f28cf41a05af39004c520d339d6a8464975c783642228b2705396db58951106298fecd5832c34f163c13632be28a9ebbc86e7681c61a34970d771d34f27e4f"
+      },
+      {
+        "version": "1.0.3",
+        "url": "https://github.com/nextflow-io/nf-console/releases/download/1.0.3/nf-console-1.0.3.zip",
+        "date": "2021-05-28T16:16:58.111+02:00",
+        "sha512sum": "2ef5562add3084d00f9e0bf421c8e374eb7694b93c658d8d3045b6ad18ec0bb05bfb16eaad7e085892cf6be4ac3fdb825039d2964745fad46dd25da129a0a03a"
       }
     ]
   },
@@ -107,6 +113,12 @@
         "url": "https://github.com/nextflow-io/nf-google/releases/download/1.0.3/nf-google-1.0.3.zip",
         "date": "2021-03-05T11:52:41.495+01:00",
         "sha512sum": "62e44cbf1df52cc2acd36541d966c8bedfd796ffb1c3b804423961bb9ed5a3fb77dc9c739332c1e449bebf0eca463c4a89360c8ac3f83792fb2270d396ee1421"
+      },
+      {
+        "version": "1.0.4",
+        "url": "https://github.com/nextflow-io/nf-google/releases/download/1.0.4/nf-google-1.0.4.zip",
+        "date": "2021-05-28T16:24:11.094+02:00",
+        "sha512sum": "5a46c6acfc15fe53e9581013f65b0ff80c3dde88b180d61285b33196b790d5ebfe8d63663ec8439564248ba2ead3931726b9a7ac88b93efa854b35088d97b90c"
       }
     ]
   },
@@ -130,6 +142,12 @@
         "url": "https://github.com/nextflow-io/nf-ignite/releases/download/1.2.2/nf-ignite-1.2.2.zip",
         "date": "2021-03-05T11:52:41.495+01:00",
         "sha512sum": "f8a40d3c6d1812f18e6bfbf9d906f67e2e4bbcfebadf2d1a53e64a0fce15d74d5bb6bfc1a35aa11c26e896961f820849107d3ac16146081ebaed3bb75e80c7ed"
+      },
+      {
+        "version": "1.2.3",
+        "url": "https://github.com/nextflow-io/nf-ignite/releases/download/1.2.3/nf-ignite-1.2.3.zip",
+        "date": "2021-05-28T16:24:11.094+02:00",
+        "sha512sum": "a533dd638efee5d63353dc7b22f31eb08809fc1cd711d4c5eed9d01be2ef0be0db5fd7c134447cab43ad93cd2e1295c0c4a40d6dafaa100f7ce466a04fc9e414"
       }
     ]
   },
@@ -159,6 +177,12 @@
         "url": "https://github.com/nextflow-io/nf-tower/releases/download/1.1.0/nf-tower-1.1.0.zip",
         "date": "2021-03-24T10:24:43.263+01:00",
         "sha512sum": "ea53fa07020a310476f7e6aa1674f645af8e4db2df19ffa7c2d9293506528eccecc49d5cb42e7a908803eaee81eab1f80886800d52c1201d7c09ad7373e687be"
+      },
+      {
+        "version": "1.1.1",
+        "url": "https://github.com/nextflow-io/nf-tower/releases/download/1.1.1/nf-tower-1.1.1.zip",
+        "date": "2021-05-28T16:24:11.094+02:00",
+        "sha512sum": "cebb76bd4b2d1021950098daba57ebf1a670a99583ae02ec9c393467ef0583970c9ae0407cdb6e72709905e63fc5a091f86d158fcfe1e6c80815516ee3e518b1"
       }
     ]
   },
@@ -182,6 +206,12 @@
         "url": "https://github.com/nextflow-io/nf-ga4gh/releases/download/1.0.2/nf-ga4gh-1.0.2.zip",
         "date": "2021-03-05T11:52:41.495+01:00",
         "sha512sum": "3a70128194a52afb789ea461309affe15c0419beb865b7f7c6b03ee57b8f5a73a85a14b6f3da8db1bd178cbb3c424cb25a4bcc515980bfcd1869effd2a0c740e"
+      },
+      {
+        "version": "1.0.3",
+        "url": "https://github.com/nextflow-io/nf-ga4gh/releases/download/1.0.3/nf-ga4gh-1.0.3.zip",
+        "date": "2021-05-28T16:24:11.094+02:00",
+        "sha512sum": "7d936f2759e6e0d4aece738d6d60d3220aec83aff418108b848733129e91f0d5c62ad6c8f5772b9e309080065927521e01a1e3d122244357d4a3cc1eb2f6260c"
       }
     ]
   },
@@ -258,6 +288,12 @@
         "url": "https://github.com/nextflow-io/nf-azure/releases/download/0.9.7/nf-azure-0.9.7.zip",
         "date": "2021-04-08T11:25:59.268+02:00",
         "sha512sum": "84a4e432b39b7a08ed6d44f742394985ebe81982fa42ff99642487d147e4c59081f65e933bf172afd3acbef73873464d79c1a92e8d686c75c9041e87c6c3516d"
+      },
+      {
+        "version": "0.9.8",
+        "url": "https://github.com/nextflow-io/nf-azure/releases/download/0.9.8/nf-azure-0.9.8.zip",
+        "date": "2021-05-28T16:13:47.214+02:00",
+        "sha512sum": "1ae9bbe47aadf15bf0188791caafb5a3aa3978e117ae97df0d90506265e1463816c125e50f5526e84ca9a685f815d24acdda8c16e0e8de4956eb20cafeac21e7"
       }
     ]
   },
