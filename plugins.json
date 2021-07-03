@@ -55,6 +55,12 @@
         "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.0.8/nf-amazon-1.0.8.zip",
         "date": "2021-05-24T15:56:56.195+02:00",
         "sha512sum": "b1563f6e16e4410904ae14c119145bc9896510e318f3d70b47222613590a95f3e112c73a64319522b95c2f5f5a939d26baa931219c027026f5c5c43c60d594ad"
+      },
+      {
+        "version": "1.1.0",
+        "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.1.0/nf-amazon-1.1.0.zip",
+        "date": "2021-07-03T22:06:12.769+02:00",
+        "sha512sum": "89140346c14cf7fdd47fe651bb5ddf7ff6aba249e39385aef30b17beffb47c7cd7e75175d26e9c67bdf6e8ee285480fe5d173ae9f5e96e4766d10452fe5f0f7d"
       }
     ]
   },
@@ -119,6 +125,12 @@
         "url": "https://github.com/nextflow-io/nf-google/releases/download/1.0.4/nf-google-1.0.4.zip",
         "date": "2021-05-28T16:24:11.094+02:00",
         "sha512sum": "5a46c6acfc15fe53e9581013f65b0ff80c3dde88b180d61285b33196b790d5ebfe8d63663ec8439564248ba2ead3931726b9a7ac88b93efa854b35088d97b90c"
+      },
+      {
+        "version": "1.1.0",
+        "url": "https://github.com/nextflow-io/nf-google/releases/download/1.1.0/nf-google-1.1.0.zip",
+        "date": "2021-07-03T22:06:12.769+02:00",
+        "sha512sum": "7d6776a3668f146e70e51cf36a9a5f493f7c3db1106502a4e66d1f4634a1997c6de0ee9dacd754d0ab155100c8a4ac418d4993dfd7b7e76dffb49ab1dc2977b9"
       }
     ]
   },
@@ -294,6 +306,12 @@
         "url": "https://github.com/nextflow-io/nf-azure/releases/download/0.9.8/nf-azure-0.9.8.zip",
         "date": "2021-05-28T16:13:47.214+02:00",
         "sha512sum": "1ae9bbe47aadf15bf0188791caafb5a3aa3978e117ae97df0d90506265e1463816c125e50f5526e84ca9a685f815d24acdda8c16e0e8de4956eb20cafeac21e7"
+      },
+      {
+        "version": "0.10.0",
+        "url": "https://github.com/nextflow-io/nf-azure/releases/download/0.10.0/nf-azure-0.10.0.zip",
+        "date": "2021-07-03T22:06:12.769+02:00",
+        "sha512sum": "eaf19ec564e2584ea3c5e2741067b2b63be91760e161dc9617bd2865b91bd1eabec3df3dbc3ab1db3d59d7d2987ddb276db80e57fe248e4d312c85b1c36b27b4"
       }
     ]
   },
