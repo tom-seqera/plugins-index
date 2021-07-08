@@ -331,5 +331,16 @@
         "sha512sum": "112a533b33ad777f8b6708aaa662de205052c26d43985f44ebce8f7f717a1c41f31e0239eec7a77b144e30c3aa05a3fee41deb6eeedcd0aa7c29a0da1d068103"
       }
     ]
+  },
+  {
+    "id": "xpack-google",
+    "releases": [
+      {
+        "version": "1.0.0-beta.1",
+        "url": "https://github.com/seqeralabs/xpack-google/releases/download/1.0.0-beta.1/xpack-google-1.0.0-beta.1.zip",
+        "date": "2021-07-08T16:04:18.73+02:00",
+        "sha512sum": "07317f274ac5e76dc9864a5469df776510693e2cf46aeb33aab212b5793649ebe0f7096d8ac667ba1ea74482625b5decd46cc473a5f3448917ff44c6a7f5b950"
+      }
+    ]
   }
 ]
