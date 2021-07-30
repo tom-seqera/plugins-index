@@ -247,6 +247,12 @@
         "url": "https://github.com/seqeralabs/xpack-amzn/releases/download/1.0.1/xpack-amzn-1.0.1.zip",
         "date": "2021-03-09T15:00:49.378+01:00",
         "sha512sum": "db9ae43fac9dcc68d6fd3efc63f55f0283fbb442b627758ab548b6266e5800c9468cd46e51202e192b0cdaf454fea48ced981dee246b175b10a07c3a8bcc43c3"
+      },
+      {
+        "version": "1.1.0",
+        "url": "https://github.com/seqeralabs/xpack-amzn/releases/download/1.1.0/xpack-amzn-1.1.0.zip",
+        "date": "2021-07-30T17:06:57.821+02:00",
+        "sha512sum": "621ad00a8d85add706da0de7a44668fb7a70e9c9b2411a99337b94c8b8854466e88423fd8c753b2838b16915b7966f4192ed9e1dc8b94b74072ca01e1a291e35"
       }
     ]
   },
@@ -344,12 +350,12 @@
     ]
   },
   {
-    "id": "nf-hello", 
+    "id": "nf-hello",
     "releases": [
       {
         "version": "0.1.0",
-        "date": "2021-07-25T11:54:13.481+02:00",
         "url": "https://github.com/nextflow-io/nf-hello/releases/download/0.1.0/nf-hello-0.1.0.zip",
+        "date": "2021-07-25T11:54:13.481+02:00",
         "sha512sum": "7abcf988117f5148622609750b30ae35b1dcaa4f532f205f160c64ec215caafb6fa8bccefc8a90cc9dba60fc68f285769c9e897808b9d925313fc375952e4547"
       }
     ]
