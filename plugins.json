@@ -6,71 +6,78 @@
         "version": "1.0.0",
         "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.0.0/nf-amazon-1.0.0.zip",
         "date": "2021-01-04T21:00:14.872+01:00",
-        "requires": "21.01.0-edge",
-        "sha512sum": "5abe4cbc643ca0333cba545846494b17488d19d17049bf9d4d9ac9ec108352b54f147abb15c48581b44fdd09097e3607aed77e2eae91c07da32c2cd71f4f852f"
+        "sha512sum": "5abe4cbc643ca0333cba545846494b17488d19d17049bf9d4d9ac9ec108352b54f147abb15c48581b44fdd09097e3607aed77e2eae91c07da32c2cd71f4f852f",
+        "requires": "21.01.0-edge"
       },
       {
         "version": "1.0.1",
         "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.0.1/nf-amazon-1.0.1.zip",
         "date": "2021-01-15T11:44:57.809+01:00",
-        "requires": ">=21.01.0-edge",
-        "sha512sum": "5d785eb451dceaf789d34b35e03cf3cafe78adff43f0473030a73e9a3986622cde23d617aba92072a909cc6e9a8693f922cb1331188b696cc50529a5c963c918"
+        "sha512sum": "5d785eb451dceaf789d34b35e03cf3cafe78adff43f0473030a73e9a3986622cde23d617aba92072a909cc6e9a8693f922cb1331188b696cc50529a5c963c918",
+        "requires": ">=21.01.0-edge"
       },
       {
         "version": "1.0.2",
         "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.0.2/nf-amazon-1.0.2.zip",
         "date": "2021-03-05T11:49:52.424+01:00",
-        "requires": ">=21.03.0-edge",
-        "sha512sum": "83309bb6d6ea9409336f3c3dc093d474092d194f844c4ee35058590ea16c3f6c947c30ae5cfc60bf441a91a6199e0e4d1b0b5a1273fc27bcb708b76037cb630c"
+        "sha512sum": "83309bb6d6ea9409336f3c3dc093d474092d194f844c4ee35058590ea16c3f6c947c30ae5cfc60bf441a91a6199e0e4d1b0b5a1273fc27bcb708b76037cb630c",
+        "requires": ">=21.03.0-edge"
       },
       {
         "version": "1.0.3",
         "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.0.3/nf-amazon-1.0.3.zip",
         "date": "2021-03-17T21:43:28.768+01:00",
-        "requires": ">=21.03.0-edge",
-        "sha512sum": "cae88a271b3aadd86eae5accddd9f392ff0c49c2e165e24dab9a0ef2036595ed5be875f7faeea672565ebfc83bea50f4dccb44e2e9b52f3bef2b7d91521b01f5"
+        "sha512sum": "cae88a271b3aadd86eae5accddd9f392ff0c49c2e165e24dab9a0ef2036595ed5be875f7faeea672565ebfc83bea50f4dccb44e2e9b52f3bef2b7d91521b01f5",
+        "requires": ">=21.03.0-edge"
       },
       {
         "version": "1.0.4",
         "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.0.4/nf-amazon-1.0.4.zip",
         "date": "2021-04-08T11:13:24.435+02:00",
-        "requires": ">=21.03.0-edge",
-        "sha512sum": "c52056616601cbe4d1e70a39bb562fce59a62196bf2be7058f0e5f572131d7c9ec981e8986eb9dede6f3cfed241d500a931c324070ee72dacb9abfb98fd8f70e"
+        "sha512sum": "c52056616601cbe4d1e70a39bb562fce59a62196bf2be7058f0e5f572131d7c9ec981e8986eb9dede6f3cfed241d500a931c324070ee72dacb9abfb98fd8f70e",
+        "requires": ">=21.03.0-edge"
       },
       {
         "version": "1.0.5",
         "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.0.5/nf-amazon-1.0.5.zip",
         "date": "2021-05-02T18:14:25.057+02:00",
-        "requires": ">=21.03.0-edge",
-        "sha512sum": "1639e17a82ef25fb704d6a5f6e9c12b1c571415cd7d5dc217e5784965f60ac2fdf2b72600140bdda7c9ea24777c774ba249a1e50cbfbabd9a0725b127c10f101"
+        "sha512sum": "1639e17a82ef25fb704d6a5f6e9c12b1c571415cd7d5dc217e5784965f60ac2fdf2b72600140bdda7c9ea24777c774ba249a1e50cbfbabd9a0725b127c10f101",
+        "requires": ">=21.03.0-edge"
       },
       {
         "version": "1.0.6",
         "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.0.6/nf-amazon-1.0.6.zip",
         "date": "2021-05-12T17:16:48.294+02:00",
-        "requires": ">=21.03.0-edge",
-        "sha512sum": "c2db1744a9d72d0e3e1e35fee6e164ae5fdf8ad8508e2544cf8761183a57a15bd8b4503400dcbca51acc81db3a0a853887db83c2638713175a9fd3ba2e790a3a"
+        "sha512sum": "c2db1744a9d72d0e3e1e35fee6e164ae5fdf8ad8508e2544cf8761183a57a15bd8b4503400dcbca51acc81db3a0a853887db83c2638713175a9fd3ba2e790a3a",
+        "requires": ">=21.03.0-edge"
       },
       {
         "version": "1.0.7",
         "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.0.7/nf-amazon-1.0.7.zip",
         "date": "2021-05-13T09:56:36.939+02:00",
-        "requires": ">=21.03.0-edge",
-        "sha512sum": "e5d1a06cb6ae092b9746b2ad3d4c508fa47ac49e487708e16f6acd31fa322fdb415c26491cf006a2b53e9d2a2c278fbf897bd026ed5f92eb09aac478f8d77808"
+        "sha512sum": "e5d1a06cb6ae092b9746b2ad3d4c508fa47ac49e487708e16f6acd31fa322fdb415c26491cf006a2b53e9d2a2c278fbf897bd026ed5f92eb09aac478f8d77808",
+        "requires": ">=21.03.0-edge"
       },
       {
         "version": "1.0.8",
         "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.0.8/nf-amazon-1.0.8.zip",
         "date": "2021-05-24T15:56:56.195+02:00",
-        "requires": ">=21.03.0-edge",
-        "sha512sum": "b1563f6e16e4410904ae14c119145bc9896510e318f3d70b47222613590a95f3e112c73a64319522b95c2f5f5a939d26baa931219c027026f5c5c43c60d594ad"
+        "sha512sum": "b1563f6e16e4410904ae14c119145bc9896510e318f3d70b47222613590a95f3e112c73a64319522b95c2f5f5a939d26baa931219c027026f5c5c43c60d594ad",
+        "requires": ">=21.03.0-edge"
       },
       {
         "version": "1.1.0",
         "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.1.0/nf-amazon-1.1.0.zip",
         "date": "2021-07-03T22:06:12.769+02:00",
-        "requires": ">=21.06.0-edge",
-        "sha512sum": "89140346c14cf7fdd47fe651bb5ddf7ff6aba249e39385aef30b17beffb47c7cd7e75175d26e9c67bdf6e8ee285480fe5d173ae9f5e96e4766d10452fe5f0f7d"
+        "sha512sum": "89140346c14cf7fdd47fe651bb5ddf7ff6aba249e39385aef30b17beffb47c7cd7e75175d26e9c67bdf6e8ee285480fe5d173ae9f5e96e4766d10452fe5f0f7d",
+        "requires": ">=21.06.0-edge"
+      },
+      {
+        "version": "1.2.0",
+        "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.2.0/nf-amazon-1.2.0.zip",
+        "date": "2021-08-06T13:06:21.118+02:00",
+        "sha512sum": "c596da915306b9d9b6d4845cc36e15c40c42fc93ea133e07d0d804cfa72bcf88883db102cb59d914b9a3d216b488b62ec424c374eb49d1f460194e8f0eed7904",
+        "requires": ">=21.07.0-edge"
       }
     ]
   },
@@ -81,29 +88,29 @@
         "version": "1.0.0",
         "url": "https://github.com/nextflow-io/nf-console/releases/download/1.0.0/nf-console-1.0.0.zip",
         "date": "2021-01-04T21:00:14.872+01:00",
-        "requires": "21.01.0-edge",
-        "sha512sum": "4e681a539a0a902c1d93bce04cb2a5e49ed286581bc1ea0202044d040566f583aa0efabe0865d351eb284e4962020bc23d62075f52b04a06ab655b53e8aeea34"
+        "sha512sum": "4e681a539a0a902c1d93bce04cb2a5e49ed286581bc1ea0202044d040566f583aa0efabe0865d351eb284e4962020bc23d62075f52b04a06ab655b53e8aeea34",
+        "requires": "21.01.0-edge"
       },
       {
         "version": "1.0.1",
         "url": "https://github.com/nextflow-io/nf-console/releases/download/1.0.1/nf-console-1.0.1.zip",
         "date": "2021-01-15T11:44:57.809+01:00",
-        "requires": ">=21.01.1-edge",
-        "sha512sum": "041c1173286bd34e94f0c4e581d08108e3d99d4342ea6979495f661f356a62e4c8c426b83ab3e24503a0547fec66f5658d7c3431ffee96b9be08f4aab43ac544"
+        "sha512sum": "041c1173286bd34e94f0c4e581d08108e3d99d4342ea6979495f661f356a62e4c8c426b83ab3e24503a0547fec66f5658d7c3431ffee96b9be08f4aab43ac544",
+        "requires": ">=21.01.1-edge"
       },
       {
         "version": "1.0.2",
         "url": "https://github.com/nextflow-io/nf-console/releases/download/1.0.2/nf-console-1.0.2.zip",
         "date": "2021-03-05T11:52:41.495+01:00",
-        "requires": ">=21.01.1-edge",
-        "sha512sum": "c2f28cf41a05af39004c520d339d6a8464975c783642228b2705396db58951106298fecd5832c34f163c13632be28a9ebbc86e7681c61a34970d771d34f27e4f"
+        "sha512sum": "c2f28cf41a05af39004c520d339d6a8464975c783642228b2705396db58951106298fecd5832c34f163c13632be28a9ebbc86e7681c61a34970d771d34f27e4f",
+        "requires": ">=21.01.1-edge"
       },
       {
         "version": "1.0.3",
         "url": "https://github.com/nextflow-io/nf-console/releases/download/1.0.3/nf-console-1.0.3.zip",
         "date": "2021-05-28T16:16:58.111+02:00",
-        "requires": ">=21.01.1-edge",
-        "sha512sum": "2ef5562add3084d00f9e0bf421c8e374eb7694b93c658d8d3045b6ad18ec0bb05bfb16eaad7e085892cf6be4ac3fdb825039d2964745fad46dd25da129a0a03a"
+        "sha512sum": "2ef5562add3084d00f9e0bf421c8e374eb7694b93c658d8d3045b6ad18ec0bb05bfb16eaad7e085892cf6be4ac3fdb825039d2964745fad46dd25da129a0a03a",
+        "requires": ">=21.01.1-edge"
       }
     ]
   },
@@ -114,43 +121,43 @@
         "version": "1.0.0",
         "url": "https://github.com/nextflow-io/nf-google/releases/download/1.0.0/nf-google-1.0.0.zip",
         "date": "2021-01-04T21:00:14.872+01:00",
-        "requires": "21.01.0-edge",
-        "sha512sum": "535d8d0145745532569cf88e04a8a81e9b56e6d570b2ee19aeb0d3c5ff0c39b45f73cb24e77bbe4b63ca3d10dceab66c681c89e29f37c9d165d06b107049fa20"
+        "sha512sum": "535d8d0145745532569cf88e04a8a81e9b56e6d570b2ee19aeb0d3c5ff0c39b45f73cb24e77bbe4b63ca3d10dceab66c681c89e29f37c9d165d06b107049fa20",
+        "requires": "21.01.0-edge"
       },
       {
         "version": "1.0.1",
         "url": "https://github.com/nextflow-io/nf-google/releases/download/1.0.1/nf-google-1.0.1.zip",
         "date": "2021-01-15T11:44:57.809+01:00",
-        "requires": ">=21.01.1-edge",
-        "sha512sum": "bb105b7c4d8b273dba8df720cb8b47faf4722c5620e449075b44bffa930602d46862ca4f9f147eb92b7245094e58c11c9aa8b51d09dadbb3ad643c6a096cc34c"
+        "sha512sum": "bb105b7c4d8b273dba8df720cb8b47faf4722c5620e449075b44bffa930602d46862ca4f9f147eb92b7245094e58c11c9aa8b51d09dadbb3ad643c6a096cc34c",
+        "requires": ">=21.01.1-edge"
       },
       {
         "version": "1.0.2",
         "url": "https://github.com/nextflow-io/nf-google/releases/download/1.0.2/nf-google-1.0.2.zip",
         "date": "2021-02-16T18:26:38.163+01:00",
-        "requires": ">=21.01.1-edge",
-        "sha512sum": "52e28ebbf389398d80928dfe2b295b3b1292c5c3cd1a60f87db6e2b7947f0d02738117f53243f1c3642a5f28e2f7054e0e93d9408b61b3edc31046fd4c421c7a"
+        "sha512sum": "52e28ebbf389398d80928dfe2b295b3b1292c5c3cd1a60f87db6e2b7947f0d02738117f53243f1c3642a5f28e2f7054e0e93d9408b61b3edc31046fd4c421c7a",
+        "requires": ">=21.01.1-edge"
       },
       {
         "version": "1.0.3",
         "url": "https://github.com/nextflow-io/nf-google/releases/download/1.0.3/nf-google-1.0.3.zip",
         "date": "2021-03-05T11:52:41.495+01:00",
-        "requires": ">=21.03.0-edge",
-        "sha512sum": "62e44cbf1df52cc2acd36541d966c8bedfd796ffb1c3b804423961bb9ed5a3fb77dc9c739332c1e449bebf0eca463c4a89360c8ac3f83792fb2270d396ee1421"
+        "sha512sum": "62e44cbf1df52cc2acd36541d966c8bedfd796ffb1c3b804423961bb9ed5a3fb77dc9c739332c1e449bebf0eca463c4a89360c8ac3f83792fb2270d396ee1421",
+        "requires": ">=21.03.0-edge"
       },
       {
         "version": "1.0.4",
         "url": "https://github.com/nextflow-io/nf-google/releases/download/1.0.4/nf-google-1.0.4.zip",
         "date": "2021-05-28T16:24:11.094+02:00",
-        "requires": ">=21.03.0-edge",
-        "sha512sum": "5a46c6acfc15fe53e9581013f65b0ff80c3dde88b180d61285b33196b790d5ebfe8d63663ec8439564248ba2ead3931726b9a7ac88b93efa854b35088d97b90c"
+        "sha512sum": "5a46c6acfc15fe53e9581013f65b0ff80c3dde88b180d61285b33196b790d5ebfe8d63663ec8439564248ba2ead3931726b9a7ac88b93efa854b35088d97b90c",
+        "requires": ">=21.03.0-edge"
       },
       {
         "version": "1.1.0",
         "url": "https://github.com/nextflow-io/nf-google/releases/download/1.1.0/nf-google-1.1.0.zip",
         "date": "2021-07-03T22:06:12.769+02:00",
-        "requires": ">=21.06.0-edge",
-        "sha512sum": "7d6776a3668f146e70e51cf36a9a5f493f7c3db1106502a4e66d1f4634a1997c6de0ee9dacd754d0ab155100c8a4ac418d4993dfd7b7e76dffb49ab1dc2977b9"
+        "sha512sum": "7d6776a3668f146e70e51cf36a9a5f493f7c3db1106502a4e66d1f4634a1997c6de0ee9dacd754d0ab155100c8a4ac418d4993dfd7b7e76dffb49ab1dc2977b9",
+        "requires": ">=21.06.0-edge"
       }
     ]
   },
@@ -161,29 +168,29 @@
         "version": "1.2.0",
         "url": "https://github.com/nextflow-io/nf-ignite/releases/download/1.2.0/nf-ignite-1.2.0.zip",
         "date": "2021-01-04T21:00:14.872+01:00",
-        "requires": "21.01.0-edge",
-        "sha512sum": "bdd85adff953c3c4bb1278cf011f236f192032909d86bf0f7da5f2af6ace98f305f4ceb458588b0e94b66e138d51eac94e35a40ad26852d2d7a99360a56ea9b1"
+        "sha512sum": "bdd85adff953c3c4bb1278cf011f236f192032909d86bf0f7da5f2af6ace98f305f4ceb458588b0e94b66e138d51eac94e35a40ad26852d2d7a99360a56ea9b1",
+        "requires": "21.01.0-edge"
       },
       {
         "version": "1.2.1",
         "url": "https://github.com/nextflow-io/nf-ignite/releases/download/1.2.1/nf-ignite-1.2.1.zip",
         "date": "2021-01-15T11:44:57.809+01:00",
-        "requires": ">=21.01.1-edge",
-        "sha512sum": "1b4cab2f0147870b9d054b99630cb40a005c4d294d4bb1e1da4b794caa262abc0730000bf74a24f994dc88603d46c259e02bf751676a8de3811343e41381e616"
+        "sha512sum": "1b4cab2f0147870b9d054b99630cb40a005c4d294d4bb1e1da4b794caa262abc0730000bf74a24f994dc88603d46c259e02bf751676a8de3811343e41381e616",
+        "requires": ">=21.01.1-edge"
       },
       {
         "version": "1.2.2",
         "url": "https://github.com/nextflow-io/nf-ignite/releases/download/1.2.2/nf-ignite-1.2.2.zip",
         "date": "2021-03-05T11:52:41.495+01:00",
-        "requires": ">=21.01.1-edge",
-        "sha512sum": "f8a40d3c6d1812f18e6bfbf9d906f67e2e4bbcfebadf2d1a53e64a0fce15d74d5bb6bfc1a35aa11c26e896961f820849107d3ac16146081ebaed3bb75e80c7ed"
+        "sha512sum": "f8a40d3c6d1812f18e6bfbf9d906f67e2e4bbcfebadf2d1a53e64a0fce15d74d5bb6bfc1a35aa11c26e896961f820849107d3ac16146081ebaed3bb75e80c7ed",
+        "requires": ">=21.01.1-edge"
       },
       {
         "version": "1.2.3",
         "url": "https://github.com/nextflow-io/nf-ignite/releases/download/1.2.3/nf-ignite-1.2.3.zip",
         "date": "2021-05-28T16:24:11.094+02:00",
-        "requires": ">=21.01.1-edge",
-        "sha512sum": "a533dd638efee5d63353dc7b22f31eb08809fc1cd711d4c5eed9d01be2ef0be0db5fd7c134447cab43ad93cd2e1295c0c4a40d6dafaa100f7ce466a04fc9e414"
+        "sha512sum": "a533dd638efee5d63353dc7b22f31eb08809fc1cd711d4c5eed9d01be2ef0be0db5fd7c134447cab43ad93cd2e1295c0c4a40d6dafaa100f7ce466a04fc9e414",
+        "requires": ">=21.01.1-edge"
       }
     ]
   },
@@ -194,36 +201,43 @@
         "version": "1.0.0",
         "url": "https://github.com/nextflow-io/nf-tower/releases/download/1.0.0/nf-tower-1.0.0.zip",
         "date": "2021-01-04T21:00:14.872+01:00",
-        "requires": "21.01.0-edge",
-        "sha512sum": "47e578fe55541e2902259977f922f5c48ae45c081957138362b018ce08dd578f52bb2135370f52785301219d6457428e4e4204df57326724b7a640cc337e2691"
+        "sha512sum": "47e578fe55541e2902259977f922f5c48ae45c081957138362b018ce08dd578f52bb2135370f52785301219d6457428e4e4204df57326724b7a640cc337e2691",
+        "requires": "21.01.0-edge"
       },
       {
         "version": "1.0.1",
         "url": "https://github.com/nextflow-io/nf-tower/releases/download/1.0.1/nf-tower-1.0.1.zip",
         "date": "2021-01-15T11:44:57.809+01:00",
-        "requires": ">=21.01.1-edge",
-        "sha512sum": "3d9103b73b8a26f7debf6d657df97953230f7c86f71f2ac62fc2ae839519a1e1b73837c317ea19053a99045514744e1496548f890440a97354ee74d02e9c92fd"
+        "sha512sum": "3d9103b73b8a26f7debf6d657df97953230f7c86f71f2ac62fc2ae839519a1e1b73837c317ea19053a99045514744e1496548f890440a97354ee74d02e9c92fd",
+        "requires": ">=21.01.1-edge"
       },
       {
         "version": "1.0.2",
         "url": "https://github.com/nextflow-io/nf-tower/releases/download/1.0.2/nf-tower-1.0.2.zip",
         "date": "2021-03-05T11:52:41.495+01:00",
-        "requires": ">=21.01.1-edge",
-        "sha512sum": "e73d9dbad6e7693920a85acd91d2d5fc52ce47039c825a10825145e79d5d1fb7e638ff8258e6e53e327a37fdb010584774cba13bd731414e0bdf361256eca7de"
+        "sha512sum": "e73d9dbad6e7693920a85acd91d2d5fc52ce47039c825a10825145e79d5d1fb7e638ff8258e6e53e327a37fdb010584774cba13bd731414e0bdf361256eca7de",
+        "requires": ">=21.01.1-edge"
       },
       {
         "version": "1.1.0",
         "url": "https://github.com/nextflow-io/nf-tower/releases/download/1.1.0/nf-tower-1.1.0.zip",
         "date": "2021-03-24T10:24:43.263+01:00",
-        "requires": ">=21.01.1-edge",
-        "sha512sum": "ea53fa07020a310476f7e6aa1674f645af8e4db2df19ffa7c2d9293506528eccecc49d5cb42e7a908803eaee81eab1f80886800d52c1201d7c09ad7373e687be"
+        "sha512sum": "ea53fa07020a310476f7e6aa1674f645af8e4db2df19ffa7c2d9293506528eccecc49d5cb42e7a908803eaee81eab1f80886800d52c1201d7c09ad7373e687be",
+        "requires": ">=21.01.1-edge"
       },
       {
         "version": "1.1.1",
         "url": "https://github.com/nextflow-io/nf-tower/releases/download/1.1.1/nf-tower-1.1.1.zip",
         "date": "2021-05-28T16:24:11.094+02:00",
-        "requires": ">=21.01.1-edge",
-        "sha512sum": "cebb76bd4b2d1021950098daba57ebf1a670a99583ae02ec9c393467ef0583970c9ae0407cdb6e72709905e63fc5a091f86d158fcfe1e6c80815516ee3e518b1"
+        "sha512sum": "cebb76bd4b2d1021950098daba57ebf1a670a99583ae02ec9c393467ef0583970c9ae0407cdb6e72709905e63fc5a091f86d158fcfe1e6c80815516ee3e518b1",
+        "requires": ">=21.01.1-edge"
+      },
+      {
+        "version": "1.2.0",
+        "url": "https://github.com/nextflow-io/nf-tower/releases/download/1.2.0/nf-tower-1.2.0.zip",
+        "date": "2021-08-06T13:17:27.579+02:00",
+        "sha512sum": "4ca16c029f380ee0aa253d663f61f740ecd726f0988bd3130091f2f73237d6b9bce59768c49736f3af39a556a456ef13fb7b668ab5456260ac1ede1b6df8c5d3",
+        "requires": ">=21.01.1-edge"
       }
     ]
   },
@@ -234,29 +248,29 @@
         "version": "1.0.0",
         "url": "https://github.com/nextflow-io/nf-ga4gh/releases/download/1.0.0/nf-ga4gh-1.0.0.zip",
         "date": "2021-01-04T21:00:14.872+01:00",
-        "requires": "21.01.0-edge",
-        "sha512sum": "52d27495c2e6e0340e836d3af652a545d5a20946fb6de81ce2a96d16e8017d0f586a89cc695cec14adb443240b7e8034e2b513da933bf311cb3b1ade02fa97ce"
+        "sha512sum": "52d27495c2e6e0340e836d3af652a545d5a20946fb6de81ce2a96d16e8017d0f586a89cc695cec14adb443240b7e8034e2b513da933bf311cb3b1ade02fa97ce",
+        "requires": "21.01.0-edge"
       },
       {
         "version": "1.0.1",
         "url": "https://github.com/nextflow-io/nf-ga4gh/releases/download/1.0.1/nf-ga4gh-1.0.1.zip",
         "date": "2021-01-15T11:44:57.809+01:00",
-        "requires": ">=21.01.1-edge",
-        "sha512sum": "bed25567bd08dd72e1701b46d311d7678d029bd3a8d8cd55edbea57c6ab7b65a3313dc9391d4597553fe35a1e27ca594b3ae1970dc5cf17a82b246bd2c488474"
+        "sha512sum": "bed25567bd08dd72e1701b46d311d7678d029bd3a8d8cd55edbea57c6ab7b65a3313dc9391d4597553fe35a1e27ca594b3ae1970dc5cf17a82b246bd2c488474",
+        "requires": ">=21.01.1-edge"
       },
       {
         "version": "1.0.2",
         "url": "https://github.com/nextflow-io/nf-ga4gh/releases/download/1.0.2/nf-ga4gh-1.0.2.zip",
         "date": "2021-03-05T11:52:41.495+01:00",
-        "requires": ">=21.01.1-edge",
-        "sha512sum": "3a70128194a52afb789ea461309affe15c0419beb865b7f7c6b03ee57b8f5a73a85a14b6f3da8db1bd178cbb3c424cb25a4bcc515980bfcd1869effd2a0c740e"
+        "sha512sum": "3a70128194a52afb789ea461309affe15c0419beb865b7f7c6b03ee57b8f5a73a85a14b6f3da8db1bd178cbb3c424cb25a4bcc515980bfcd1869effd2a0c740e",
+        "requires": ">=21.01.1-edge"
       },
       {
         "version": "1.0.3",
         "url": "https://github.com/nextflow-io/nf-ga4gh/releases/download/1.0.3/nf-ga4gh-1.0.3.zip",
         "date": "2021-05-28T16:24:11.094+02:00",
-        "requires": ">=21.01.1-edge",
-        "sha512sum": "7d936f2759e6e0d4aece738d6d60d3220aec83aff418108b848733129e91f0d5c62ad6c8f5772b9e309080065927521e01a1e3d122244357d4a3cc1eb2f6260c"
+        "sha512sum": "7d936f2759e6e0d4aece738d6d60d3220aec83aff418108b848733129e91f0d5c62ad6c8f5772b9e309080065927521e01a1e3d122244357d4a3cc1eb2f6260c",
+        "requires": ">=21.01.1-edge"
       }
     ]
   },
@@ -267,29 +281,29 @@
         "version": "1.0.0-rc0",
         "url": "https://github.com/seqeralabs/xpack-amzn/releases/download/1.0.0-rc0/xpack-amzn-1.0.0-rc0.zip",
         "date": "2021-01-04T23:21:38.553+01:00",
-        "requires": "21.01.0-edge",
-        "sha512sum": "3f0b6a283799eda6c99c4da737eeb7dbf39ff1e905b438a5116f8e23e4ff0dfc02c05a76b0ed690cf3a6bc0371dadf561b69426c493577af3842942789e843fa"
+        "sha512sum": "3f0b6a283799eda6c99c4da737eeb7dbf39ff1e905b438a5116f8e23e4ff0dfc02c05a76b0ed690cf3a6bc0371dadf561b69426c493577af3842942789e843fa",
+        "requires": "21.01.0-edge"
       },
       {
         "version": "1.0.0",
         "url": "https://github.com/seqeralabs/xpack-amzn/releases/download/1.0.0/xpack-amzn-1.0.0.zip",
         "date": "2021-01-15T19:04:20.117+01:00",
-        "requires": ">=21.01.1-edge",
-        "sha512sum": "e6532821ee6941aa7c5d3ba90771459928e1b9ad48246e6459f6507e27c382b275e597c192100404a4ea5aaadf050bf98683a9cbef81ca81c7808c3606341e60"
+        "sha512sum": "e6532821ee6941aa7c5d3ba90771459928e1b9ad48246e6459f6507e27c382b275e597c192100404a4ea5aaadf050bf98683a9cbef81ca81c7808c3606341e60",
+        "requires": ">=21.01.1-edge"
       },
       {
         "version": "1.0.1",
         "url": "https://github.com/seqeralabs/xpack-amzn/releases/download/1.0.1/xpack-amzn-1.0.1.zip",
         "date": "2021-03-09T15:00:49.378+01:00",
-        "requires": ">=21.01.1-edge",
-        "sha512sum": "db9ae43fac9dcc68d6fd3efc63f55f0283fbb442b627758ab548b6266e5800c9468cd46e51202e192b0cdaf454fea48ced981dee246b175b10a07c3a8bcc43c3"
+        "sha512sum": "db9ae43fac9dcc68d6fd3efc63f55f0283fbb442b627758ab548b6266e5800c9468cd46e51202e192b0cdaf454fea48ced981dee246b175b10a07c3a8bcc43c3",
+        "requires": ">=21.01.1-edge"
       },
       {
         "version": "1.1.0",
         "url": "https://github.com/seqeralabs/xpack-amzn/releases/download/1.1.0/xpack-amzn-1.1.0.zip",
         "date": "2021-07-30T17:06:57.821+02:00",
-        "requires": ">=21.06.0-edge",
-        "sha512sum": "621ad00a8d85add706da0de7a44668fb7a70e9c9b2411a99337b94c8b8854466e88423fd8c753b2838b16915b7966f4192ed9e1dc8b94b74072ca01e1a291e35"
+        "sha512sum": "621ad00a8d85add706da0de7a44668fb7a70e9c9b2411a99337b94c8b8854466e88423fd8c753b2838b16915b7966f4192ed9e1dc8b94b74072ca01e1a291e35",
+        "requires": ">=21.06.0-edge"
       }
     ]
   },
@@ -300,71 +314,71 @@
         "version": "0.9.0",
         "url": "https://github.com/nextflow-io/nf-azure/releases/download/0.9.0/nf-azure-0.9.0.zip",
         "date": "2021-02-01T16:34:06.173+01:00",
-        "requires": ">=21.02.0-edge",
-        "sha512sum": "3925205256f5ef7f07b1086df89c5475b10eff9e5e408e5eae9e911c74f6f836d2e98cb082793ccd7694fe68b847cbb9c3045b0b758b4f53dfcdbd6b33b10580"
+        "sha512sum": "3925205256f5ef7f07b1086df89c5475b10eff9e5e408e5eae9e911c74f6f836d2e98cb082793ccd7694fe68b847cbb9c3045b0b758b4f53dfcdbd6b33b10580",
+        "requires": ">=21.02.0-edge"
       },
       {
         "version": "0.9.1",
         "url": "https://github.com/nextflow-io/nf-azure/releases/download/0.9.1/nf-azure-0.9.1.zip",
         "date": "2021-02-05T12:45:14.414+01:00",
-        "requires": ">=21.02.0-edge",
-        "sha512sum": "84eb6339b17a0851562174fb2efddba77b5a68178fd7b8731f3315aeddf4550ec60459970ab64389f751092d632ce52b86fdb80ef19d3e3316e1f2142a66d7b4"
+        "sha512sum": "84eb6339b17a0851562174fb2efddba77b5a68178fd7b8731f3315aeddf4550ec60459970ab64389f751092d632ce52b86fdb80ef19d3e3316e1f2142a66d7b4",
+        "requires": ">=21.02.0-edge"
       },
       {
         "version": "0.9.2",
         "url": "https://github.com/nextflow-io/nf-azure/releases/download/0.9.2/nf-azure-0.9.2.zip",
         "date": "2021-02-23T06:56:44.41+01:00",
-        "requires": ">=21.02.0-edge",
-        "sha512sum": "df88c92533c88a2885d7daaeeb935f46299eed2c1daf4657f001bd299b27da1b41b917cb8f2c4df06a386ca8e259c9bece7e3a40dc5d54e1e8b13b61606484ea"
+        "sha512sum": "df88c92533c88a2885d7daaeeb935f46299eed2c1daf4657f001bd299b27da1b41b917cb8f2c4df06a386ca8e259c9bece7e3a40dc5d54e1e8b13b61606484ea",
+        "requires": ">=21.02.0-edge"
       },
       {
         "version": "0.9.3",
         "url": "https://github.com/nextflow-io/nf-azure/releases/download/0.9.3/nf-azure-0.9.3.zip",
         "date": "2021-02-23T08:44:50.292+01:00",
-        "requires": ">=21.02.0-edge",
-        "sha512sum": "b7de52f273c32773649f552d1676299c5a438133d40d117a2668473bd0edcbd62e906452b99b6428fe87238a8df7a776936c83571c582bc4721d1365c8cbeb0d"
+        "sha512sum": "b7de52f273c32773649f552d1676299c5a438133d40d117a2668473bd0edcbd62e906452b99b6428fe87238a8df7a776936c83571c582bc4721d1365c8cbeb0d",
+        "requires": ">=21.02.0-edge"
       },
       {
         "version": "0.9.4",
         "url": "https://github.com/nextflow-io/nf-azure/releases/download/0.9.4/nf-azure-0.9.4.zip",
         "date": "2021-03-01T13:17:36.251+01:00",
-        "requires": ">=21.02.0-edge",
-        "sha512sum": "702f0192ee526330a5f0783d1a243dc2e1e177e616816127cf73339421525630e86af3e9df4ba26b14ad2c0af133c3a7aacaf1ddf12dcdf3345175ff61ef14d4"
+        "sha512sum": "702f0192ee526330a5f0783d1a243dc2e1e177e616816127cf73339421525630e86af3e9df4ba26b14ad2c0af133c3a7aacaf1ddf12dcdf3345175ff61ef14d4",
+        "requires": ">=21.02.0-edge"
       },
       {
         "version": "0.9.5",
         "url": "https://github.com/nextflow-io/nf-azure/releases/download/0.9.5/nf-azure-0.9.5.zip",
         "date": "2021-03-05T11:49:52.424+01:00",
-        "requires": ">=21.03.0-edge",
-        "sha512sum": "b330f3f78b15ede5525b5882db1fcba06a41bdcbedb6fe0e19fc9bcfa82a15c46b7d095ee0c45c92a7fa456220a5cccb3c821ef761df7fba062e9b56f3ecbd94"
+        "sha512sum": "b330f3f78b15ede5525b5882db1fcba06a41bdcbedb6fe0e19fc9bcfa82a15c46b7d095ee0c45c92a7fa456220a5cccb3c821ef761df7fba062e9b56f3ecbd94",
+        "requires": ">=21.03.0-edge"
       },
       {
         "version": "0.9.6",
         "url": "https://github.com/nextflow-io/nf-azure/releases/download/0.9.6/nf-azure-0.9.6.zip",
         "date": "2021-03-18T09:00:52.267+01:00",
-        "requires": ">=21.03.0-edge",
-        "sha512sum": "47440213cef8a5777265e2e001e46561c7e7d755fb45ef6f4504fa2ecaa02a1781618f9975f85bdb4423301f627d08bdacf2a688c99d1369c293a949eedf9d1c"
+        "sha512sum": "47440213cef8a5777265e2e001e46561c7e7d755fb45ef6f4504fa2ecaa02a1781618f9975f85bdb4423301f627d08bdacf2a688c99d1369c293a949eedf9d1c",
+        "requires": ">=21.03.0-edge"
       },
       {
         "version": "0.9.7",
         "url": "https://github.com/nextflow-io/nf-azure/releases/download/0.9.7/nf-azure-0.9.7.zip",
         "date": "2021-04-08T11:25:59.268+02:00",
-        "requires": ">=21.03.0-edge",
-        "sha512sum": "84a4e432b39b7a08ed6d44f742394985ebe81982fa42ff99642487d147e4c59081f65e933bf172afd3acbef73873464d79c1a92e8d686c75c9041e87c6c3516d"
+        "sha512sum": "84a4e432b39b7a08ed6d44f742394985ebe81982fa42ff99642487d147e4c59081f65e933bf172afd3acbef73873464d79c1a92e8d686c75c9041e87c6c3516d",
+        "requires": ">=21.03.0-edge"
       },
       {
         "version": "0.9.8",
         "url": "https://github.com/nextflow-io/nf-azure/releases/download/0.9.8/nf-azure-0.9.8.zip",
         "date": "2021-05-28T16:13:47.214+02:00",
-        "requires": ">=21.03.0-edge",
-        "sha512sum": "1ae9bbe47aadf15bf0188791caafb5a3aa3978e117ae97df0d90506265e1463816c125e50f5526e84ca9a685f815d24acdda8c16e0e8de4956eb20cafeac21e7"
+        "sha512sum": "1ae9bbe47aadf15bf0188791caafb5a3aa3978e117ae97df0d90506265e1463816c125e50f5526e84ca9a685f815d24acdda8c16e0e8de4956eb20cafeac21e7",
+        "requires": ">=21.03.0-edge"
       },
       {
         "version": "0.10.0",
         "url": "https://github.com/nextflow-io/nf-azure/releases/download/0.10.0/nf-azure-0.10.0.zip",
         "date": "2021-07-03T22:06:12.769+02:00",
-        "requires": ">=21.06.0-edge",
-        "sha512sum": "eaf19ec564e2584ea3c5e2741067b2b63be91760e161dc9617bd2865b91bd1eabec3df3dbc3ab1db3d59d7d2987ddb276db80e57fe248e4d312c85b1c36b27b4"
+        "sha512sum": "eaf19ec564e2584ea3c5e2741067b2b63be91760e161dc9617bd2865b91bd1eabec3df3dbc3ab1db3d59d7d2987ddb276db80e57fe248e4d312c85b1c36b27b4",
+        "requires": ">=21.06.0-edge"
       }
     ]
   },
@@ -375,15 +389,15 @@
         "version": "1.0.0-beta.1",
         "url": "https://github.com/seqeralabs/xpack-dnanexus/releases/download/1.0.0-beta.1/xpack-dnanexus-1.0.0-beta.1.zip",
         "date": "2021-02-04T16:25:41.824+01:00",
-        "requires": ">=21.01.0-edge",
-        "sha512sum": "f828a6a348e9a3e9f24cde54f54dad35cecad1abf842efb8d20052f472e19e930d013f1fd3824326b422b054fbf368f1eaf7728624102756036a7b34448bc3e4"
+        "sha512sum": "f828a6a348e9a3e9f24cde54f54dad35cecad1abf842efb8d20052f472e19e930d013f1fd3824326b422b054fbf368f1eaf7728624102756036a7b34448bc3e4",
+        "requires": ">=21.01.0-edge"
       },
       {
         "version": "1.0.0-beta.2",
         "url": "https://github.com/seqeralabs/xpack-dnanexus/releases/download/1.0.0-beta.2/xpack-dnanexus-1.0.0-beta.2.zip",
         "date": "2021-03-04T17:37:31.949+01:00",
-        "requires": ">=21.01.0-edge",
-        "sha512sum": "112a533b33ad777f8b6708aaa662de205052c26d43985f44ebce8f7f717a1c41f31e0239eec7a77b144e30c3aa05a3fee41deb6eeedcd0aa7c29a0da1d068103"
+        "sha512sum": "112a533b33ad777f8b6708aaa662de205052c26d43985f44ebce8f7f717a1c41f31e0239eec7a77b144e30c3aa05a3fee41deb6eeedcd0aa7c29a0da1d068103",
+        "requires": ">=21.01.0-edge"
       }
     ]
   },
@@ -394,8 +408,8 @@
         "version": "1.0.0-beta.1",
         "url": "https://github.com/seqeralabs/xpack-google/releases/download/1.0.0-beta.1/xpack-google-1.0.0-beta.1.zip",
         "date": "2021-07-08T16:04:18.73+02:00",
-        "requires": ">=21.06.0-edge",
-        "sha512sum": "07317f274ac5e76dc9864a5469df776510693e2cf46aeb33aab212b5793649ebe0f7096d8ac667ba1ea74482625b5decd46cc473a5f3448917ff44c6a7f5b950"
+        "sha512sum": "07317f274ac5e76dc9864a5469df776510693e2cf46aeb33aab212b5793649ebe0f7096d8ac667ba1ea74482625b5decd46cc473a5f3448917ff44c6a7f5b950",
+        "requires": ">=21.06.0-edge"
       }
     ]
   },
@@ -406,8 +420,8 @@
         "version": "0.1.0",
         "url": "https://github.com/nextflow-io/nf-hello/releases/download/0.1.0/nf-hello-0.1.0.zip",
         "date": "2021-07-25T11:54:13.481+02:00",
-        "requires": ">=21.04.0",
-        "sha512sum": "7abcf988117f5148622609750b30ae35b1dcaa4f532f205f160c64ec215caafb6fa8bccefc8a90cc9dba60fc68f285769c9e897808b9d925313fc375952e4547"
+        "sha512sum": "7abcf988117f5148622609750b30ae35b1dcaa4f532f205f160c64ec215caafb6fa8bccefc8a90cc9dba60fc68f285769c9e897808b9d925313fc375952e4547",
+        "requires": ">=21.04.0"
       }
     ]
   }
