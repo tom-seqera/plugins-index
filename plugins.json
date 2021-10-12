@@ -78,6 +78,13 @@
         "date": "2021-08-06T13:06:21.118+02:00",
         "sha512sum": "c596da915306b9d9b6d4845cc36e15c40c42fc93ea133e07d0d804cfa72bcf88883db102cb59d914b9a3d216b488b62ec424c374eb49d1f460194e8f0eed7904",
         "requires": ">=21.07.0-edge"
+      },
+      {
+        "version": "1.2.1",
+        "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.2.1/nf-amazon-1.2.1.zip",
+        "date": "2021-10-12T21:35:22.704+02:00",
+        "sha512sum": "a47ff7c3c82944602b15e299fb0361e45e9356096ae905acee48623373eaa21696c9ed233db012492e5315f8060f819eb799c71c9dc4bd77e06e9485acf3a6bb",
+        "requires": ">=21.07.0-edge"
       }
     ]
   },
@@ -157,6 +164,13 @@
         "url": "https://github.com/nextflow-io/nf-google/releases/download/1.1.0/nf-google-1.1.0.zip",
         "date": "2021-07-03T22:06:12.769+02:00",
         "sha512sum": "7d6776a3668f146e70e51cf36a9a5f493f7c3db1106502a4e66d1f4634a1997c6de0ee9dacd754d0ab155100c8a4ac418d4993dfd7b7e76dffb49ab1dc2977b9",
+        "requires": ">=21.06.0-edge"
+      },
+      {
+        "version": "1.1.1",
+        "url": "https://github.com/nextflow-io/nf-google/releases/download/1.1.1/nf-google-1.1.1.zip",
+        "date": "2021-10-12T21:54:29.898+02:00",
+        "sha512sum": "cf8f0c3a960f3451e212de0b4e6923fb38ea95c93cf8bd1fbe7a27a55f76c97417578cbc7372a7d384429c8c3ea3480ffe1c8a48f15cd080361ae4ce972dfe3c",
         "requires": ">=21.06.0-edge"
       }
     ]
@@ -378,6 +392,13 @@
         "url": "https://github.com/nextflow-io/nf-azure/releases/download/0.10.0/nf-azure-0.10.0.zip",
         "date": "2021-07-03T22:06:12.769+02:00",
         "sha512sum": "eaf19ec564e2584ea3c5e2741067b2b63be91760e161dc9617bd2865b91bd1eabec3df3dbc3ab1db3d59d7d2987ddb276db80e57fe248e4d312c85b1c36b27b4",
+        "requires": ">=21.06.0-edge"
+      },
+      {
+        "version": "0.11.0",
+        "url": "https://github.com/nextflow-io/nf-azure/releases/download/0.11.0/nf-azure-0.11.0.zip",
+        "date": "2021-10-12T21:35:22.704+02:00",
+        "sha512sum": "6d0815087a53c0a00cacc26666facbbf894e762e6300309d08f1523c934ecb4f67d75754d6f13dc4c13a1478fd70ec3864a71981c4c57f1932ea42d3a7fa4eac",
         "requires": ">=21.06.0-edge"
       }
     ]
