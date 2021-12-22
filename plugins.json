@@ -127,48 +127,6 @@
         "date": "2021-11-29T15:51:35.704+01:00",
         "sha512sum": "de5f5c3ecd564128ee9b2721f0b762072babd57a21eab16cf03f6e39d201bdb7844e53ce5c61949997296cd2f653af3f2cb6308990bb69947e793e74e2c80e0e",
         "requires": ">=21.07.0-edge"
-      },
-      {
-        "version": "1.3.5-beta.0",
-        "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.3.5-beta.0/nf-amazon-1.3.5-beta.0.zip",
-        "date": "2021-12-08T19:31:34.391189+01:00",
-        "sha512sum": "e336b2e6f24b72939479f2d63c7c6352441118a9c825cbfea7f586c09b385c9dae7532a0dfa09b4fcfda90dcd043fdfec9ede034575aa92ab75597c708d076ad",
-        "requires": ">=21.07.0-edge"
-      },
-      {
-        "version": "1.3.5-beta.1",
-        "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.3.5-beta.1/nf-amazon-1.3.5-beta.1.zip",
-        "date": "2021-12-09T13:05:32.571301+01:00",
-        "sha512sum": "ee1af8304356a76d68b87d18578a7353a285721a458229be3c084325a11a344b5a59bacd50f7a8a9194f8fbd44b409ead92aaab171f439b19212de35f5b21e8e",
-        "requires": ">=21.07.0-edge"
-      },
-      {
-        "version": "1.3.5-beta.2",
-        "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.3.5-beta.2/nf-amazon-1.3.5-beta.2.zip",
-        "date": "2021-12-13T09:24:06.152+01:00",
-        "sha512sum": "d55d68bd74a07d7af180419f41ea623958076f0c7aabeb8c4c69bccda4e70c851fd9d3219f19d8962d6308a524d389484c54693422a97a0f76c945ed14c41543",
-        "requires": ">=21.07.0-edge"
-      },
-      {
-        "version": "1.3.5-beta.3",
-        "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.3.5-beta.3/nf-amazon-1.3.5-beta.3.zip",
-        "date": "2021-12-15T12:30:13.44931+01:00",
-        "sha512sum": "37c611dd27b2bffa824d13f62b1c215b941184492776fbf56776c7e138513e6073d37cbee0b5713af4597c450b847579820f698be1a50b2f9c2f7234e283bfa9",
-        "requires": ">=21.07.0-edge"
-      },
-      {
-        "version": "1.3.5-beta.4",
-        "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.3.5-beta.4/nf-amazon-1.3.5-beta.4.zip",
-        "date": "2021-12-16T18:04:45.934514+01:00",
-        "sha512sum": "4cc7c77b46325afe3aa2b858dac7d9fc1f506687d433118f96b7851dda4d1039e5d089d047337613cd294e53dbf91f146ddb25ea1e7d37fcdc81134549bca7ae",
-        "requires": ">=21.07.0-edge"
-      },
-      {
-        "version": "1.3.5-beta.5",
-        "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.3.5-beta.5/nf-amazon-1.3.5-beta.5.zip",
-        "date": "2021-12-20T10:19:07.36292+01:00",
-        "sha512sum": "2a8d9d7db591af2f32e31597f9b50080a554f35dd2516b11867991b375c82bf54824a1aa2e689969b16641a06b1d9f511796f5f7c5c6de14f8f3405dca9a275e",
-        "requires": ">=21.07.0-edge"
       }
     ]
   },
