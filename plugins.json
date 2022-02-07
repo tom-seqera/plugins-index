@@ -336,6 +336,13 @@
         "date": "2021-10-28T17:13:28.089+02:00",
         "sha512sum": "34d21a11aff124045d24ee2b063e86cbbc22a9e715fdf863b2b3c399f593d4ac731745126e8f8453ab6343b8ac5c9507cd96abec9861c150dc11243cba9745cc",
         "requires": ">=21.09.1-edge"
+      },
+      {
+        "version": "1.4.0",
+        "url": "https://github.com/nextflow-io/nf-tower/releases/download/1.4.0/nf-tower-1.4.0.zip",
+        "date": "2022-02-07T12:17:49.445966+01:00",
+        "sha512sum": "21f873216f5f0d76a5f7d692c4399419939a98a2d6a740756ee6eb41d5e5c38e750d0facab17547191a9e3fb2100a5b6f7d0a3d28b77367101f9382e93fc6348",
+        "requires": ">=22.01.0-edge"
       }
     ]
   },
@@ -505,6 +512,13 @@
         "date": "2021-11-22T12:43:00.528+01:00",
         "sha512sum": "6cb82e6c3a40fa2cbca681eae7ef1a87d80360c77391f567a827deb365ac00d869e4e47806737f759cfef4e66e0140ee0fc47315a2eb72650ff2f425b9e6a294",
         "requires": ">=21.06.0-edge"
+      },
+      {
+        "version": "0.12.0",
+        "url": "https://github.com/nextflow-io/nf-azure/releases/download/0.12.0/nf-azure-0.12.0.zip",
+        "date": "2022-02-07T12:16:08.652841+01:00",
+        "sha512sum": "c272ada9eb3a31ff232687182049c8701f4d8842411621661654fb022de0add5127238a0dc68b2c3f6efd805cca0bd04180f5373be9e32205048ea81a7ebad33",
+        "requires": ">=21.06.0-edge"
       }
     ]
   },
@@ -587,6 +601,13 @@
         "url": "https://github.com/nextflow-io/nf-sqldb/releases/download/0.2.0/nf-sqldb-0.2.0.zip",
         "date": "2021-10-10T18:52:09.964+02:00",
         "sha512sum": "3fbdcad57978a24ae07e07751368a6fcbb08d5aed21c8bf805ae74fd0ea24e823e638f636ad46babb652bce1438368554ea4ddbcede79a2ab409a07e641b364d",
+        "requires": ">=21.08.0-edge"
+      },
+      {
+        "version": "0.3.0",
+        "url": "https://github.com/nextflow-io/nf-sqldb/releases/download/0.3.0/nf-sqldb-0.3.0.zip",
+        "date": "2022-02-07T12:17:17.280978+01:00",
+        "sha512sum": "000274961ae4a26ca8211deb09854f79329e198aaa824fa12ca7749fc64ebabf813b3a0a843bb88a36b54f2b9cd73bc71afaea177f6d7394ee9531546959e61d",
         "requires": ">=21.08.0-edge"
       }
     ]
