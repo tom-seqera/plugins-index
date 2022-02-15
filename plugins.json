@@ -628,6 +628,13 @@
         "date": "2022-01-13T19:41:29.438756+01:00",
         "sha512sum": "de0cf0705a6a191959e5edcaf78ffc71f3e9f361e1aee74ef3d331c9918ed4261677846add324cf3218dd39a79986f07c5e2a9e58e75c615e1983fca168cddd0",
         "requires": ">=21.12.1-edge"
+      },
+      {
+        "version": "1.2.0-rc.1",
+        "url": "https://github.com/nextflow-io/nf-wr/releases/download/1.2.0-rc.1/nf-wr-1.2.0-rc.1.zip",
+        "date": "2022-02-15T23:06:06.958345+01:00",
+        "sha512sum": "a1ffabae44ce52ecefe1c68b646a0427e4f87609563659f4c0d803a8b7b37e2c8e1f9841cb76eb80012ade896ccca06e7758690ee1ae6f959a66b1789c90f2c8",
+        "requires": ">=21.12.1-edge"
       }
     ]
   }
