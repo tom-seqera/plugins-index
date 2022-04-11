@@ -679,6 +679,13 @@
         "date": "2022-02-07T12:17:17.280978+01:00",
         "sha512sum": "000274961ae4a26ca8211deb09854f79329e198aaa824fa12ca7749fc64ebabf813b3a0a843bb88a36b54f2b9cd73bc71afaea177f6d7394ee9531546959e61d",
         "requires": ">=21.08.0-edge"
+      },
+      {
+        "version": "0.4.0",
+        "url": "https://github.com/nextflow-io/nf-sqldb/releases/download/0.4.0/nf-sqldb-0.4.0.zip",
+        "date": "2022-04-11T21:10:36.744277+02:00",
+        "sha512sum": "332c27266e2cd1008d18742f926e4a41663a49b3f9ec91c8b205aec35f5c73846efb0590535613acb15981821389c48bcc69a626da71f4e1815aff1c3c07bd7a",
+        "requires": ">=21.08.0-edge"
       }
     ]
   },
