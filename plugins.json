@@ -183,6 +183,13 @@
         "date": "2022-05-15T14:11:31.057634+02:00",
         "sha512sum": "bf673e4e95b180f08240e559f11aa841d5589834fea29c31d47be7a99b51a85d5170224f5de654334b43b195f3227a8a3da3f6423637260c0f9e934990226ea7",
         "requires": ">=22.03.0-edge"
+      },
+      {
+        "version": "1.8.0",
+        "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.8.0/nf-amazon-1.8.0.zip",
+        "date": "2022-05-25T19:54:56.104156+02:00",
+        "sha512sum": "b37902c1dd5da3ec3aa5de9e8aee63a5206b5aed17d57e5295ab41c9d6da0dbd5ab80da840f17b9e727ab3be2f012973a525366239a5d81f278d3df5bf9bfb1d",
+        "requires": ">=22.03.0-edge"
       }
     ]
   },
@@ -290,6 +297,13 @@
         "url": "https://github.com/nextflow-io/nf-google/releases/download/1.1.4/nf-google-1.1.4.zip",
         "date": "2021-12-22T06:13:51.994+01:00",
         "sha512sum": "a0f5872e17e9c9e5836767b7883594efe0fe17832ceda9e11a725c2a7ae87b6d54c823d5d672f665388c9591b48a0474b760ae2116422f2a347f9027c4bb9c32",
+        "requires": ">=21.12.0-edge"
+      },
+      {
+        "version": "1.2.0",
+        "url": "https://github.com/nextflow-io/nf-google/releases/download/1.2.0/nf-google-1.2.0.zip",
+        "date": "2022-05-25T19:56:48.940617+02:00",
+        "sha512sum": "a4fc2028d56576c69d7c7768a12aa9c8a9902001c4e23dec1a3cd052d1a7d81ea0275ea377efab8c725e73107e2ede6e8499f2057b79662702d55621ace7783a",
         "requires": ">=21.12.0-edge"
       }
     ]
@@ -720,6 +734,13 @@
         "url": "https://github.com/nextflow-io/nf-sqldb/releases/download/0.4.0/nf-sqldb-0.4.0.zip",
         "date": "2022-04-11T21:10:36.744277+02:00",
         "sha512sum": "332c27266e2cd1008d18742f926e4a41663a49b3f9ec91c8b205aec35f5c73846efb0590535613acb15981821389c48bcc69a626da71f4e1815aff1c3c07bd7a",
+        "requires": ">=21.08.0-edge"
+      },
+      {
+        "version": "0.4.1",
+        "url": "https://github.com/nextflow-io/nf-sqldb/releases/download/0.4.1/nf-sqldb-0.4.1.zip",
+        "date": "2022-05-25T19:57:06.440046+02:00",
+        "sha512sum": "5ea012247b8265b12278e3aa6423782514710fcc949de5ab14cfd1985c06746269a166748d1f830ef908515f106d1c8c7538fb1e6ce6843e4404fb823dc01434",
         "requires": ">=21.08.0-edge"
       }
     ]
