@@ -787,6 +787,13 @@
         "date": "2022-06-09T17:27:03.062311+02:00",
         "sha512sum": "e4c0886a3a5046d6f0082c1e7570d1ddbd7f3001d52c8a4061e170763867044fd8dc7f743517168175db2d5e19ffbadeecb9691e3358bf2941cb8252742e250d",
         "requires": ">=22.06.0-edge"
+      },
+      {
+        "version": "0.1.2",
+        "url": "https://github.com/nextflow-io/nf-codecommit/releases/download/0.1.2/nf-codecommit-0.1.2.zip",
+        "date": "2022-06-17T15:07:20.416753+02:00",
+        "sha512sum": "98b77fd9b61db2d03414b8064ec587583bf9cb8239eaaa25b42af3d8d961c6162341a550624af7a7bdc962fb7354bdc9edbdb0fa3cddeb03d698e21a964b1891",
+        "requires": ">=22.06.1-edge"
       }
     ]
   }
