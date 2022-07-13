@@ -190,6 +190,13 @@
         "date": "2022-05-25T19:54:56.104156+02:00",
         "sha512sum": "b37902c1dd5da3ec3aa5de9e8aee63a5206b5aed17d57e5295ab41c9d6da0dbd5ab80da840f17b9e727ab3be2f012973a525366239a5d81f278d3df5bf9bfb1d",
         "requires": ">=22.03.0-edge"
+      },
+      {
+        "version": "1.8.1",
+        "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.8.1/nf-amazon-1.8.1.zip",
+        "date": "2022-07-13T13:12:16.048952+02:00",
+        "sha512sum": "9bc42c6640ec814a5940796f7319d26e7f66aa418021c4ed49a5b8ecddc95cb466cca4902aa937cd6631134e77432286f689aad2d59c590a15f7f46ca6e42861",
+        "requires": ">=22.03.0-edge"
       }
     ]
   },
@@ -312,6 +319,13 @@
         "date": "2022-06-06T13:31:22.647293+02:00",
         "sha512sum": "d00bbeb9bf6c0af92d8c7fc7512ee3dd685f8aea7c4cc20aa34481e0f5e2c356d01be940449f8796fef3e23067e69c0bcf4ad279dcaffebb8a8e90e1c52928ae",
         "requires": ">=21.12.0-edge"
+      },
+      {
+        "version": "1.3.0",
+        "url": "https://github.com/nextflow-io/nf-google/releases/download/1.3.0/nf-google-1.3.0.zip",
+        "date": "2022-07-13T13:22:57.658779+02:00",
+        "sha512sum": "b63d33bb20c8011fa61ae8e1deec1efb4a240f3cd9e75b5ad35cea95fa64d1f73136f0f59890701c6d3042afd1c957d25d3a270aa6030e514163bfd773889800",
+        "requires": ">=22.07.1-edge"
       }
     ]
   },
@@ -637,6 +651,13 @@
         "url": "https://github.com/nextflow-io/nf-azure/releases/download/0.13.2/nf-azure-0.13.2.zip",
         "date": "2022-05-15T14:11:45.36062+02:00",
         "sha512sum": "124259b17b4389d61a742635cbd787c24a1ae2398375a066f73f32f2410a48fedc4c58add0c43d23116241254dd9e7707c0ac7b9e4a1a7bf076287680236c7fc",
+        "requires": ">=22.03.0-edge"
+      },
+      {
+        "version": "0.13.3",
+        "url": "https://github.com/nextflow-io/nf-azure/releases/download/0.13.3/nf-azure-0.13.3.zip",
+        "date": "2022-07-13T13:12:30.303183+02:00",
+        "sha512sum": "e329b2e503a0448aac8d0dd0d021c016ab06b9e9f9ad7454938e33eac89db5ecd09936721a24af26ed7f546e3f1baeb06cf151775a2c5606b8432e728d8d9eae",
         "requires": ">=22.03.0-edge"
       }
     ]
