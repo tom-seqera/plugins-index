@@ -528,6 +528,13 @@
         "date": "2022-05-06T16:49:04.307868+02:00",
         "sha512sum": "387d1b902bda727add4d4b24f3ea89b967583282fc1e9c6bca504d51859d49789320b56b4d7ed790bd034ce62f35d89a812569c91a813c0f2915f4ddbda5ca3f",
         "requires": ">=22.01.0-edge"
+      },
+      {
+        "version": "1.2.0",
+        "url": "https://github.com/seqeralabs/xpack-amzn/releases/download/1.2.0/xpack-amzn-1.2.0.zip",
+        "date": "2022-07-25T18:01:04.533868+02:00",
+        "sha512sum": "11bb2b401dddddf5cd79a61d147538bc2c878faf093ac5926d94c02848f1e7cefa9ae74e854223dd7763cd06d4aef446ee29cb084f278ae0b1c37711f5ca24b9",
+        "requires": ">=22.01.0-edge"
       }
     ]
   },
