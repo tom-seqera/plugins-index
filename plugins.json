@@ -824,5 +824,17 @@
         "requires": ">=22.06.1-edge"
       }
     ]
+  },
+  {
+    "id": "nf-wave",
+    "releases": [
+      {
+        "version": "0.2.0",
+        "url": "https://github.com/nextflow-io/nf-wave/releases/download/0.2.0/nf-wave-0.2.0.zip",
+        "date": "2022-07-25T19:30:39.27249+02:00",
+        "sha512sum": "0a2a00573c4a5672698f7c9991cde4b9d246d036a7800ca21182ed55a7d3edacb0b439d6225f5459ddabf7f27b583b95b979e47ba37eb7f32dd786ffbc50d01f",
+        "requires": ">=22.08.0-SNAPSHOT"
+      }
+    ]
   }
 ]
