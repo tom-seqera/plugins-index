@@ -698,46 +698,6 @@
     ]
   },
   {
-    "id": "xpack-dnanexus",
-    "releases": [
-      {
-        "version": "1.0.0-beta.1",
-        "url": "https://github.com/seqeralabs/xpack-dnanexus/releases/download/1.0.0-beta.1/xpack-dnanexus-1.0.0-beta.1.zip",
-        "date": "2021-02-04T16:25:41.824+01:00",
-        "sha512sum": "f828a6a348e9a3e9f24cde54f54dad35cecad1abf842efb8d20052f472e19e930d013f1fd3824326b422b054fbf368f1eaf7728624102756036a7b34448bc3e4",
-        "requires": ">=21.01.0-edge"
-      },
-      {
-        "version": "1.0.0-beta.2",
-        "url": "https://github.com/seqeralabs/xpack-dnanexus/releases/download/1.0.0-beta.2/xpack-dnanexus-1.0.0-beta.2.zip",
-        "date": "2021-03-04T17:37:31.949+01:00",
-        "sha512sum": "112a533b33ad777f8b6708aaa662de205052c26d43985f44ebce8f7f717a1c41f31e0239eec7a77b144e30c3aa05a3fee41deb6eeedcd0aa7c29a0da1d068103",
-        "requires": ">=21.01.0-edge"
-      },
-      {
-        "version": "1.0.0-beta.3",
-        "url": "https://github.com/seqeralabs/xpack-dnanexus/releases/download/1.0.0-beta.3/xpack-dnanexus-1.0.0-beta.3.zip",
-        "date": "2021-09-27T21:25:54.519+02:00",
-        "sha512sum": "b054394d43adacf659845edcbf24d8408e927e08205e3be85dbd39cd9d5ad0411713f5c623c88b78eb1568c86a716dd8240c9011f297abc8f7c5be8b54ba6ffc",
-        "requires": ">=21.06.0-edge"
-      },
-      {
-        "version": "1.0.0-beta.4",
-        "url": "https://github.com/seqeralabs/xpack-dnanexus/releases/download/1.0.0-beta.4/xpack-dnanexus-1.0.0-beta.4.zip",
-        "date": "2021-10-16T18:18:01.447+02:00",
-        "sha512sum": "82c3911922d6f3b8e9c6e29936cd27c0319e630145d99569d279ac9e8c12889cdbda8bddb33c05d368383746a3080c43cdf7f8e789768359dd86e3deb400e902",
-        "requires": ">=21.06.0-edge"
-      },
-      {
-        "version": "1.0.0-beta.5",
-        "url": "https://github.com/seqeralabs/xpack-dnanexus/releases/download/1.0.0-beta.5/xpack-dnanexus-1.0.0-beta.5.zip",
-        "date": "2021-11-23T08:55:50.518+01:00",
-        "sha512sum": "67bc9fb707dbaa0181f2017462cb1d074a22d2ae79427599d70e49afbe833d237ea1cbdf67f88a48ab2597dcb3e1ed7d13f64ed7ea194ecda161b8f836d0a0fe",
-        "requires": ">=21.06.0-edge"
-      }
-    ]
-  },
-  {
     "id": "xpack-google",
     "releases": [
       {
