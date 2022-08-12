@@ -859,5 +859,17 @@
         "requires": ">=22.08.0-edge"
       }
     ]
+  },
+  {
+    "id": "nf-quilt",
+    "releases": [
+      {
+        "version": "0.1.0",
+        "url": "https://github.com/nextflow-io/nf-quilt/releases/download/0.1.0/nf-quilt-0.1.0.zip",
+        "date": "2022-08-12T10:38:42.398666+02:00",
+        "sha512sum": "2098cd13c65649fe9ea64a7a045768f450b770f3f44d959c53caf818149104812f3a297f859d15e8097d48b3b1dac427e036402465f65acdf990772c9df74208",
+        "requires": ">=22.04.0"
+      }
+    ]
   }
 ]
