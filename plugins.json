@@ -746,6 +746,13 @@
         "date": "2022-05-03T19:25:01.389588+02:00",
         "sha512sum": "c29fb06f785becc15117fc0587d8f50a313b92f07604a4770f1db9bf55f67a2c544a70588cf93fc1738cdaa43bb083ef9dfbf60e8dc1a7c2fdbce47cbb474441",
         "requires": ">=22.04.0"
+      },
+      {
+        "version": "0.3.0",
+        "url": "https://github.com/nextflow-io/nf-hello/releases/download/0.3.0/nf-hello-0.3.0.zip",
+        "date": "2022-08-30T22:09:43.857293+02:00",
+        "sha512sum": "0ca15b2a460453d784442bcee67212ca160b1851e122b7502aabab2fc7a2979b3a64c9456ef263b3ca553462b182ac480bbce7632b236f92b336896d97c0fef0",
+        "requires": ">=22.08.1-edge"
       }
     ]
   },
