@@ -239,6 +239,13 @@
         "date": "2022-09-19T23:14:29.685285+02:00",
         "sha512sum": "1ef95fa2f48b28d620084a7bd09676a4b6f24c83ad4f1c85fa18a43cd837b4c527daabbcf69662bae4278a57b95a264093522738e8d53dc702b7d38fe1676755",
         "requires": ">=22.09.2-edge"
+      },
+      {
+        "version": "1.10.5",
+        "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.10.5/nf-amazon-1.10.5.zip",
+        "date": "2022-09-20T23:19:32.778123+02:00",
+        "sha512sum": "030cfbd3de88ce4b42ed560bde1d89cdbc69cc7f4444efbf3474779aa3eba9d81a3f8aa81dbd5401499b76ce0e103c990d02928884f72b058ae7f5dfaa991ae6",
+        "requires": ">=22.09.2-edge"
       }
     ]
   },
@@ -524,6 +531,13 @@
         "url": "https://github.com/nextflow-io/nf-tower/releases/download/1.5.3/nf-tower-1.5.3.zip",
         "date": "2022-09-19T23:15:56.680213+02:00",
         "sha512sum": "a91b6606d5787a7cf52af9b32a3626406f83fe482ba9c61a104f5c197df21b91d68a3ae88e5e796368bda2b46f6ea57e14db2e9f7ae28310321fc0e46862623b",
+        "requires": ">=22.08.0-edge"
+      },
+      {
+        "version": "1.5.4",
+        "url": "https://github.com/nextflow-io/nf-tower/releases/download/1.5.4/nf-tower-1.5.4.zip",
+        "date": "2022-09-20T23:50:52.018322+02:00",
+        "sha512sum": "883263b802f2b52da7037f91d5cf3c13a3f2804e3331221316c765bfee7c2a81358643ce1e7b530380046248551769cb50dfdbcc06aee1f6af1c90d12d538edc",
         "requires": ">=22.08.0-edge"
       }
     ]
