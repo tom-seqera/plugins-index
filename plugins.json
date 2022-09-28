@@ -253,6 +253,13 @@
         "date": "2022-09-26T17:28:02.451954+02:00",
         "sha512sum": "13de9d68b8dca15f9a6c137d0ee39bac2980e1e4a90a4797ddb3a6946827dce39976ff014aa7d763e1d294e33ef6470540cb7291a555256b3d33ba61de2acd2a",
         "requires": ">=22.09.2-edge"
+      },
+      {
+        "version": "1.10.7",
+        "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.10.7/nf-amazon-1.10.7.zip",
+        "date": "2022-09-28T12:18:14.051774+02:00",
+        "sha512sum": "7994e56f0a7512523227317307de9116d4880b6cf9443913593bf90d3171611f976287b1287934adf1e7511f42b5d1d6f0c8cab0e2cd67820c35b796b2f157f8",
+        "requires": ">=22.09.2-edge"
       }
     ]
   },
