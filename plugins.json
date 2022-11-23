@@ -890,6 +890,13 @@
         "date": "2022-09-19T23:14:46.331824+02:00",
         "sha512sum": "8a87530955cad122531d494b6b72e0937a6e71b867d0ee22d8956404d705e6a9d7f8984914b3cc5adeff6dba1eb4cbd71d70d9b004ac85a06606ac55bb14c712",
         "requires": ">=22.09.2-edge"
+      },
+      {
+        "version": "0.15.0",
+        "url": "https://github.com/nextflow-io/nf-azure/releases/download/0.15.0/nf-azure-0.15.0.zip",
+        "date": "2022-11-23T18:23:56.198538+01:00",
+        "sha512sum": "5ea1b86d3bdb8c987accdc36f69abc5a19e59b2ce2d9d154d7ba4b0a30f4f8374f5901059d949c6022445036e180aad17affa18283e1f839524a3a7ba739f2f3",
+        "requires": ">=22.09.2-edge"
       }
     ]
   },
@@ -1115,6 +1122,13 @@
         "url": "https://github.com/nextflow-io/nf-wave/releases/download/0.5.2/nf-wave-0.5.2.zip",
         "date": "2022-10-11T18:38:13.228687+02:00",
         "sha512sum": "f40c1f1af792d9f248758f19be154f0c2a724f38bfca40e15ff6f99dba2f5e45b763ee32c9b3f52ac875ec94aa1a3b686d010171a0c7ee91353c789c8bce42e7",
+        "requires": ">=22.09.0-edge"
+      },
+      {
+        "version": "0.6.0",
+        "url": "https://github.com/nextflow-io/nf-wave/releases/download/0.6.0/nf-wave-0.6.0.zip",
+        "date": "2022-11-23T18:24:29.310405+01:00",
+        "sha512sum": "bd5fcee7683a4de7379fb892ba5117154ce0e738180dbbd3108762caf43ff465ffebca2cef0f81ecde7cef318cd85fa8bf29893bd9174fb52bfd929ee0cc0636",
         "requires": ">=22.09.0-edge"
       }
     ]
