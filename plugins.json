@@ -602,6 +602,13 @@
         "date": "2022-11-13T20:10:12.103901+01:00",
         "sha512sum": "f7f41884e5cd4b4d5ee13178e0542bd38fb3ce31bb185775787645ef199394e1aff4a5a0a415edb7d68ed0ac3b04ab4a77cddbb1778d72fc36d82e53e09cf7e8",
         "requires": ">=22.10.2"
+      },
+      {
+        "version": "1.5.7",
+        "url": "https://github.com/nextflow-io/nf-tower/releases/download/1.5.7/nf-tower-1.5.7.zip",
+        "date": "2022-11-29T17:31:38.502625+01:00",
+        "sha512sum": "664223b7b0dc04b1027e1a4733a9e21eee0d63d626d773f39adbb31e57b41953c7033e854a84c1d8ab40cc65a49c7071422f9151e9e4b4c2af43cd7c49594e86",
+        "requires": ">=22.11.0-edge"
       }
     ]
   },
@@ -1129,6 +1136,13 @@
         "url": "https://github.com/nextflow-io/nf-wave/releases/download/0.6.0/nf-wave-0.6.0.zip",
         "date": "2022-11-23T18:24:29.310405+01:00",
         "sha512sum": "bd5fcee7683a4de7379fb892ba5117154ce0e738180dbbd3108762caf43ff465ffebca2cef0f81ecde7cef318cd85fa8bf29893bd9174fb52bfd929ee0cc0636",
+        "requires": ">=22.09.0-edge"
+      },
+      {
+        "version": "0.6.1",
+        "url": "https://github.com/nextflow-io/nf-wave/releases/download/0.6.1/nf-wave-0.6.1.zip",
+        "date": "2022-11-29T17:31:23.083525+01:00",
+        "sha512sum": "81fbc5d0bb5a630b106a19f9c30e8c3dcfe7b2183dd690323c102be5a3da0def652ac49ca5fd8a31d4eb37e5592ccb4d96c1931800590a105ef9490b39fba5b4",
         "requires": ">=22.09.0-edge"
       }
     ]
