@@ -295,6 +295,13 @@
         "date": "2022-12-13T22:59:02.518547+01:00",
         "sha512sum": "bbe64d06f50577a9b5024b699081001cc690effeaf70338eb352f09e5346a9dd9e5cfc1eaf8f7d728df341450f118e95da9ef1796926b8b0285e727f95073066",
         "requires": ">=22.09.2-edge"
+      },
+      {
+        "version": "1.11.3",
+        "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.11.3/nf-amazon-1.11.3.zip",
+        "date": "2023-01-14T14:48:55.624471+01:00",
+        "sha512sum": "a71ca56c7ade7f80ee43a55f94f4dcc507ff2b13b99b55900d5a21b8dbde97bd3ba13b93052b75027aff826a264f8160940947dfe8c7cc644ccea46405d2b123",
+        "requires": ">=22.10.3"
       }
     ]
   },
@@ -1225,10 +1232,10 @@
     "releases": [
       {
         "version": "1.0.0",
-        "date": "2022-12-19T14:05:10.359029-08:00",
         "url": "https://github.com/Sage-Bionetworks-Workflows/nf-prov/releases/download/1.0.0/nf-prov-1.0.0.zip",
-        "requires": ">=22.11.0-edge",
-        "sha512sum": "fc29033db409d7b8f2b8d1384f80cfe7adc34d41b1c19c9ec9fa2d9c1d293f4ddd21e1de7ecf10257735b70d214b14c88b74cd7a4d673f084673704be0f853a2"
+        "date": "2022-12-19T14:05:10.359029-08:00",
+        "sha512sum": "fc29033db409d7b8f2b8d1384f80cfe7adc34d41b1c19c9ec9fa2d9c1d293f4ddd21e1de7ecf10257735b70d214b14c88b74cd7a4d673f084673704be0f853a2",
+        "requires": ">=22.11.0-edge"
       }
     ]
   }
