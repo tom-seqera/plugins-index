@@ -1077,6 +1077,13 @@
         "date": "2023-01-14T20:17:26.808429+01:00",
         "sha512sum": "fe1426f043897fb4685489ee388dd7884316b2c1bf7e6970ab2636c180b30c0049711b094a0a84b9a4e77a22c8118a31f50d20c8c3d320fab497f5e0f84d64b1",
         "requires": ">=23.01.0-edge"
+      },
+      {
+        "version": "1.0.0-beta.3",
+        "url": "https://github.com/seqeralabs/xpack-google/releases/download/1.0.0-beta.3/xpack-google-1.0.0-beta.3.zip",
+        "date": "2023-04-09T10:01:03.310524+02:00",
+        "sha512sum": "2bda5cb3d7eb7d3f15713fa7d67a988f017ce0b101630562b6863983123aa53bf17a59b4059e9c5af7d382f852b78806fc4d4ae924f605c5085964490bb319ab",
+        "requires": ">=23.01.0-edge"
       }
     ]
   },
