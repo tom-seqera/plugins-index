@@ -564,6 +564,13 @@
         "date": "2023-04-01T23:34:45.210465+02:00",
         "sha512sum": "f7268fdf6ab3c127d240acc5c687fad385a6372dfa06f3136d650b0d4faf4b21c2d33dd576f961cab8359568fbb36f3904927583a80a2a7644752e5f19c094e7",
         "requires": ">=23.02.0-edge"
+      },
+      {
+        "version": "1.4.6",
+        "url": "https://github.com/nextflow-io/nf-google/releases/download/1.4.6/nf-google-1.4.6.zip",
+        "date": "2023-04-13T18:17:46.579537+02:00",
+        "sha512sum": "0ca3583a9d655c392a4e5dcf565c033efe94b43b4580fc166ae1e087eb0e4e44869ec6375667f455d65bccf6924025a7562258859bedb4c16b42a7ac9c6fbbf3",
+        "requires": ">=22.09.0-edge"
       }
     ]
   },
