@@ -344,6 +344,13 @@
         "date": "2023-04-13T16:32:14.300741+02:00",
         "sha512sum": "416c619268df0229112e465b6181594ae35cdbfaa43b011e1670c876992631d0a86f9d7f754770ca082da953d5c11d91508daf13f85dbf1ccd2825c7a27b85a7",
         "requires": ">=22.10.3"
+      },
+      {
+        "version": "1.16.2",
+        "url": "https://github.com/nextflow-io/nf-amazon/releases/download/1.16.2/nf-amazon-1.16.2.zip",
+        "date": "2023-04-15T08:16:37.428124+02:00",
+        "sha512sum": "05bfe01718c5ad29b2fb8a1e11dd40d05ce461d5ab83603866d75f952271149e2ee5da2cacbca524bea1d1769072b61201b010a1167becee206c5edba6bf0f9d",
+        "requires": ">=23.02.0-edge"
       }
     ]
   },
@@ -571,6 +578,13 @@
         "date": "2023-04-13T18:17:46.579537+02:00",
         "sha512sum": "0ca3583a9d655c392a4e5dcf565c033efe94b43b4580fc166ae1e087eb0e4e44869ec6375667f455d65bccf6924025a7562258859bedb4c16b42a7ac9c6fbbf3",
         "requires": ">=22.09.0-edge"
+      },
+      {
+        "version": "1.7.3",
+        "url": "https://github.com/nextflow-io/nf-google/releases/download/1.7.3/nf-google-1.7.3.zip",
+        "date": "2023-04-15T08:31:54.222111+02:00",
+        "sha512sum": "23a39dece6ea5203ab269d630402572a32a801fd0bcff91bdd979376c7aab6597c3dbcf735ecca812af398599a6573121af6681cc3abfcdf3841dbe8a5077544",
+        "requires": ">=23.02.0-edge"
       }
     ]
   },
@@ -756,6 +770,13 @@
         "date": "2023-04-13T17:14:41.309811+02:00",
         "sha512sum": "c039d1426e9e1181c677028715308bda76d86e9db701eeb383fe40bcd5eb55087ca0bf96b5e5742f34771d4e7e3d8f8ccca29da33b9cd64ffe9501501a5fec0b",
         "requires": ">=22.10.2"
+      },
+      {
+        "version": "1.5.12",
+        "url": "https://github.com/nextflow-io/nf-tower/releases/download/1.5.12/nf-tower-1.5.12.zip",
+        "date": "2023-04-15T08:34:41.642091+02:00",
+        "sha512sum": "ab79b1306d7e5926d6ce4006bef3fce384ac58a155eb78c031c50a9234e1ae9300c13a46032a63b527a9d14aab3bb70d97b65217d2fdbaadf46baa8500182f7a",
+        "requires": ">=22.11.0-edge"
       }
     ]
   },
@@ -1093,6 +1114,13 @@
         "date": "2023-04-13T16:32:26.446642+02:00",
         "sha512sum": "f660b264990dba5e92058ab1d2298b4f5ceb00a06fae76be48102ea35837154dfebdf2f1a26acd3d64953af6a14b1f77e0d305ec8cf36571debf4efb8ca4171c",
         "requires": ">=22.09.2-edge"
+      },
+      {
+        "version": "1.0.1",
+        "url": "https://github.com/nextflow-io/nf-azure/releases/download/1.0.1/nf-azure-1.0.1.zip",
+        "date": "2023-04-15T08:18:27.295318+02:00",
+        "sha512sum": "72ba593a4c2fc8f8c9bc51e135ae0fd965aa0eca9e68580dd1b9b132c162ecb70166f76720137f42fe927f46ec2e3b5c0c24aaef147ac56255881423ffabaecb",
+        "requires": ">=23.01.0-edge"
       }
     ]
   },
@@ -1243,6 +1271,13 @@
         "url": "https://github.com/nextflow-io/nf-codecommit/releases/download/0.1.3/nf-codecommit-0.1.3.zip",
         "date": "2023-01-14T18:46:12.398057+01:00",
         "sha512sum": "492c22c63d766535d80ae03cb1b1657d0f7ac21ad8579c23c501254e482618b1d21a3007550b17e8b5ee1735bb484c0a32c0d0c67db539e13edb5f0f9492cd6b",
+        "requires": ">=22.06.1-edge"
+      },
+      {
+        "version": "0.1.4",
+        "url": "https://github.com/nextflow-io/nf-codecommit/releases/download/0.1.4/nf-codecommit-0.1.4.zip",
+        "date": "2023-04-15T08:23:31.549227+02:00",
+        "sha512sum": "cf0a6f44e7b1b895f0be6f1398721a90ca051aaa2b89084760fb29c34961980577e02d5114490e78373a66f0bf08710e409a3eaec4710c44aa5b06412439a7a9",
         "requires": ">=22.06.1-edge"
       }
     ]
@@ -1424,6 +1459,13 @@
         "date": "2023-04-13T16:36:16.724203+02:00",
         "sha512sum": "7c3b8731ba2c7d469e2f128ff02a722ad84abdd8b42b34e4996ba29eed32d92dde406dcf77145dd9bb66cc44f30ab19f45f8419e677eec9d62d7313f2bf35ec1",
         "requires": ">=22.09.0-edge"
+      },
+      {
+        "version": "0.8.2",
+        "url": "https://github.com/nextflow-io/nf-wave/releases/download/0.8.2/nf-wave-0.8.2.zip",
+        "date": "2023-04-15T08:36:25.213991+02:00",
+        "sha512sum": "5cd7a62154c1adb7317bd1c228f38666e413f2515cfc16644474cb93bdb4ad84f67e3c2776f33b80d696daf80ac60a11486d9275f5701dae14cf21dc612a1757",
+        "requires": ">=23.02.0-edge"
       }
     ]
   },
