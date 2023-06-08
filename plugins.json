@@ -1529,6 +1529,13 @@
         "date": "2023-05-15T05:57:45.578487+02:00",
         "sha512sum": "d49ed864159176fb0ae0ff2f9e2e336955507509119f93c7579f75499d180b8d75b2c9d030fd9467cf26073a4822658bc2245e59827c8ac8d5c985d4db70da25",
         "requires": ">=23.05.0-edge"
+      },
+      {
+        "version": "0.8.3",
+        "url": "https://github.com/nextflow-io/nf-wave/releases/download/0.8.3/nf-wave-0.8.3.zip",
+        "date": "2023-06-08T10:25:37.354126+02:00",
+        "sha512sum": "140eb358d4cf8510abd979a446a6ab87a9335c9dfc7f92116c7b763ba1e85546672a9ce1733771aa4a00ad371634eebd603b22ee84f5832b726ac32c77993d8c",
+        "requires": ">=23.02.0-edge"
       }
     ]
   },
@@ -1620,17 +1627,17 @@
     "releases": [
       {
         "version": "0.6.0",
-        "date": "2023-05-09T12:48:08.340787+04:00",
         "url": "https://github.com/nimbix/nf-jarvice/releases/download/0.6.0/nf-jarvice-0.6.0.zip",
-        "requires": ">=23.02.0-edge",
-        "sha512sum": "306d2ddd6a56d4c501f49d787648508ce2c876fe319541b22580fe0ee0e178709f6996b059a7c52100f41008a4aa97b0fe5e4fedb6ed96863bc25eb382bf1f7c"
+        "date": "2023-05-09T12:48:08.340787+04:00",
+        "sha512sum": "306d2ddd6a56d4c501f49d787648508ce2c876fe319541b22580fe0ee0e178709f6996b059a7c52100f41008a4aa97b0fe5e4fedb6ed96863bc25eb382bf1f7c",
+        "requires": ">=23.02.0-edge"
       },
       {
         "version": "0.7.0",
-        "date": "2023-05-09T12:48:08.340787+04:00",
         "url": "https://github.com/nimbix/nf-jarvice/releases/download/0.7.0/nf-jarvice-0.7.0.zip",
-        "requires": ">=23.02.0-edge",
-        "sha512sum": "97f45eab388e0186d91b4ada14fa896846712c4dcbfe0e9cd5f1646f42b56ea92bbf2535b8dad73904cd727471f96e3c5184501b37f34f73cd6572aef3351a47"
+        "date": "2023-05-09T12:48:08.340787+04:00",
+        "sha512sum": "97f45eab388e0186d91b4ada14fa896846712c4dcbfe0e9cd5f1646f42b56ea92bbf2535b8dad73904cd727471f96e3c5184501b37f34f73cd6572aef3351a47",
+        "requires": ">=23.02.0-edge"
       }
     ]
   },
@@ -1646,17 +1653,17 @@
       },
       {
         "version": "0.2.0",
-        "date": "2023-06-06T10:03:06.92325066+02:00",
         "url": "https://github.com/nextflow-io/nf-validation/releases/download/0.2.0/nf-validation-0.2.0.zip",
-        "requires": ">=22.10.0",
-        "sha512sum": "304916efae3853bfb9ff422faa2124ba2ba6e38d90d7e46417b3b6951bf7477d64885a6aafcb31d55ed39b8d37b1cde009e12fa6aba2897cd1776f419f47d17c"
+        "date": "2023-06-06T10:03:06.92325066+02:00",
+        "sha512sum": "304916efae3853bfb9ff422faa2124ba2ba6e38d90d7e46417b3b6951bf7477d64885a6aafcb31d55ed39b8d37b1cde009e12fa6aba2897cd1776f419f47d17c",
+        "requires": ">=22.10.0"
       },
       {
         "version": "0.2.1",
-        "date": "2023-06-06T14:53:28.728084944+02:00",
         "url": "https://github.com/nextflow-io/nf-validation/releases/download/0.2.1/nf-validation-0.2.1.zip",
-        "requires": ">=22.10.0",
-        "sha512sum": "01166b10ddc69802ab4f528b149b78e5fded88ae6b1ee9355bf11d85571a568b061a7b2ecbd4256e2bb0e97c667ab295b89d9d2705a8c115b6ca772d1bb27844"
+        "date": "2023-06-06T14:53:28.728084944+02:00",
+        "sha512sum": "01166b10ddc69802ab4f528b149b78e5fded88ae6b1ee9355bf11d85571a568b061a7b2ecbd4256e2bb0e97c667ab295b89d9d2705a8c115b6ca772d1bb27844",
+        "requires": ">=22.10.0"
       }
     ]
   },
@@ -1665,10 +1672,10 @@
     "releases": [
       {
         "version": "0.1.7",
-        "date": "2023-05-25T17:24:17.211959+08:00",
         "url": "https://github.com/MemVerge/nf-float/releases/download/0.1.7/nf-float-0.1.7.zip",
-        "requires": ">=22.10.0",
-        "sha512sum": "86d69ae625f920c80e92b12311671ee88683219040ad09f9d9057f6b324cc901e35e470604f8c901daaba570f1a412a3161e7945e8ba53a3967fa940d90d3251"
+        "date": "2023-05-25T17:24:17.211959+08:00",
+        "sha512sum": "86d69ae625f920c80e92b12311671ee88683219040ad09f9d9057f6b324cc901e35e470604f8c901daaba570f1a412a3161e7945e8ba53a3967fa940d90d3251",
+        "requires": ">=22.10.0"
       }
     ]
   }
