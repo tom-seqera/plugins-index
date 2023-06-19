@@ -1205,6 +1205,13 @@
         "date": "2023-06-19T14:18:03.135439+02:00",
         "sha512sum": "2a1753a061fb0283884d5cb40c75de4799aea7bddb1b5c1c2e8a1cc07886cdd8fa239fdba07d34cda3f7352237bda95d317d26b164e187fa4ad0754f6f173f2c",
         "requires": ">=23.01.0-edge"
+      },
+      {
+        "version": "1.1.3",
+        "url": "https://github.com/nextflow-io/nf-azure/releases/download/1.1.3/nf-azure-1.1.3.zip",
+        "date": "2023-06-19T20:56:18.652263+02:00",
+        "sha512sum": "0b12198b4364e50f6ba7f8b10d11b999a27a973c5b66c217741f56a5315cd7c5121cce3671193681602e3fc28eae8c98036a87cb9efecc4ae67247041841893b",
+        "requires": ">=23.01.0-edge"
       }
     ]
   },
