@@ -1198,6 +1198,13 @@
         "date": "2023-06-14T22:45:05.151178+02:00",
         "sha512sum": "7d90fcf08b49dc24de06740dcd5c3f79080de03afa2037ebfbad73567f7923dbd9e75375fec72bf521fc18d252815e0dfa9fe7c65567ae397e87f934319f0acf",
         "requires": ">=23.01.0-edge"
+      },
+      {
+        "version": "1.1.2",
+        "url": "https://github.com/nextflow-io/nf-azure/releases/download/1.1.2/nf-azure-1.1.2.zip",
+        "date": "2023-06-19T14:18:03.135439+02:00",
+        "sha512sum": "2a1753a061fb0283884d5cb40c75de4799aea7bddb1b5c1c2e8a1cc07886cdd8fa239fdba07d34cda3f7352237bda95d317d26b164e187fa4ad0754f6f173f2c",
+        "requires": ">=23.01.0-edge"
       }
     ]
   },
@@ -1657,10 +1664,10 @@
       },
       {
         "version": "1.0.1",
-        "date": "2023-06-09T14:38:46.678551+02:00",
         "url": "https://github.com/CommonWorkflowScheduler/nf-cws/releases/download/1.0.1/nf-cws-1.0.1.zip",
-        "requires": ">23.02.01-edge",
-        "sha512sum": "7d1043376f099ac07a2f34151c7b519ae5233724d6eb26b2f6529c9351c070f3470a47f011731b74d3e3837d68ee86010c53cb63f2047ae8b0a8b2bdd0555e1c"
+        "date": "2023-06-09T14:38:46.678551+02:00",
+        "sha512sum": "7d1043376f099ac07a2f34151c7b519ae5233724d6eb26b2f6529c9351c070f3470a47f011731b74d3e3837d68ee86010c53cb63f2047ae8b0a8b2bdd0555e1c",
+        "requires": ">23.02.01-edge"
       }
     ]
   },
