@@ -1669,6 +1669,13 @@
         "date": "2023-08-05T17:04:50.75974+02:00",
         "sha512sum": "8f947a5603175a0c15c79dda0cb5d53ef89500717af52e3f4eb96a98c823149fd9e611745bec8a2742a725c0a5cd3744d70fff1a5e81bee649e4d3086ff46a22",
         "requires": ">=23.05.0-edge"
+      },
+      {
+        "version": "0.8.4",
+        "url": "https://github.com/nextflow-io/nf-wave/releases/download/0.8.4/nf-wave-0.8.4.zip",
+        "date": "2023-08-11T20:26:30.020111+02:00",
+        "sha512sum": "8d6ba5ac0a0e2876e7cc1b95eb6f0bbff89aef4c43a0779330127d31bb42cf7a15828e3b018a8fad145ba3ca9f01d1ff6303040315b0c9ae4c9d7990b45e4b29",
+        "requires": ">=23.02.0-edge"
       }
     ]
   },
@@ -1882,10 +1889,10 @@
       },
       {
         "version": "0.3.0",
-        "date": "2023-08-09T13:47:22.997195+08:00",
         "url": "https://github.com/MemVerge/nf-float/releases/download/0.3.0/nf-float-0.3.0.zip",
-        "requires": ">=23.04.0",
-        "sha512sum": "6492e1faddd0fccd94e5b71551e907e56cc35150dcfbbc8b727c0fdbccae53463f1d62c78aaf311cc23d4c77d177e15ae5a7bfe8e0bac9e2eb89a8bfb61fbe6a"
+        "date": "2023-08-09T13:47:22.997195+08:00",
+        "sha512sum": "6492e1faddd0fccd94e5b71551e907e56cc35150dcfbbc8b727c0fdbccae53463f1d62c78aaf311cc23d4c77d177e15ae5a7bfe8e0bac9e2eb89a8bfb61fbe6a",
+        "requires": ">=23.04.0"
       }
     ]
   },
