@@ -1907,5 +1907,17 @@
         "requires": ">=23.04.0"
       }
     ]
+  },
+  {
+    "id": "nf-weblog",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/nextflow-io/nf-weblog/releases/download/1.0.0/nf-weblog-1.0.0.zip",
+        "date": "2023-08-17T12:43:45.67158+02:00",
+        "sha512sum": "07b1bf377a2586b65403d77536d1b9c948751b2d8de2073ea6e3a4d503612c2a8a6dbcdba630e7fe4f429c7951417fdc6e030d45f7c2d20c6059cdb6441c822f",
+        "requires": ">=23.07.0-edge"
+      }
+    ]
   }
 ]
