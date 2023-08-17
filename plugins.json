@@ -861,6 +861,13 @@
         "date": "2023-08-05T17:04:40.688381+02:00",
         "sha512sum": "e40ff9c48018fe00e8e9aeecf0facc75b7ce918b73a94dc45541eace923f571ef4b7cec3f7e1a69ab3bb4d5a304890c1c37c6797b9cd1ae39f826241b59f9ab5",
         "requires": ">=23.05.0-edge"
+      },
+      {
+        "version": "1.6.1",
+        "url": "https://github.com/nextflow-io/nf-tower/releases/download/1.6.1/nf-tower-1.6.1.zip",
+        "date": "2023-08-17T15:32:58.772464Z",
+        "sha512sum": "7e7245100ac0ed800e7c2069bf3da5a718d332316201e671d309c825c8cc9148dfe143e3177057c1caa2c82d05b5ccb9df4866cdfc209391d187f6a2b5b5d250",
+        "requires": ">=23.05.0-edge"
       }
     ]
   },
@@ -1275,6 +1282,13 @@
         "date": "2023-08-05T17:04:25.126139+02:00",
         "sha512sum": "83382f772cf999f771e39b074631dba740a5e2c44f8c47cbaeddaffca37b927f6ac02a984f96160b8ab437f129dd5248d7fc004d93011bfdd2812ffc76b72d92",
         "requires": ">=23.01.0-edge"
+      },
+      {
+        "version": "1.3.0",
+        "url": "https://github.com/nextflow-io/nf-azure/releases/download/1.3.0/nf-azure-1.3.0.zip",
+        "date": "2023-08-17T15:29:35.865316Z",
+        "sha512sum": "941ffe6e5ce3078468bf4e2dca73158710df5aa565388dd9fc424e5fdc1240b86e897d568f7a9938ceabfc4d440e506258d72539132d91a539634856a7b39762",
+        "requires": ">=23.01.0-edge"
       }
     ]
   },
@@ -1676,6 +1690,13 @@
         "date": "2023-08-11T20:26:30.020111+02:00",
         "sha512sum": "8d6ba5ac0a0e2876e7cc1b95eb6f0bbff89aef4c43a0779330127d31bb42cf7a15828e3b018a8fad145ba3ca9f01d1ff6303040315b0c9ae4c9d7990b45e4b29",
         "requires": ">=23.02.0-edge"
+      },
+      {
+        "version": "0.11.2",
+        "url": "https://github.com/nextflow-io/nf-wave/releases/download/0.11.2/nf-wave-0.11.2.zip",
+        "date": "2023-08-17T15:33:22.814674Z",
+        "sha512sum": "4bb2a6c5918b4eae57c2df5de62156d46109d0e2ed6928da27eec4db53e716a73cdfcd10e95ed770fb6bc2969b5a1266c5b378427fa9bf1f5657e68333de0f73",
+        "requires": ">=23.05.0-edge"
       }
     ]
   },
@@ -1904,6 +1925,13 @@
         "url": "https://github.com/nextflow-io/nf-cloudcache/releases/download/0.1.0/nf-cloudcache-0.1.0.zip",
         "date": "2023-07-22T18:03:58.944461+02:00",
         "sha512sum": "75f61dcb1c1238eeec966953b1318927725366ef13bb7e5c857f52802ebe48f8378696ed4aae85200b5969644164c6542d7742b1debffb071af13f5466467a3a",
+        "requires": ">=23.04.0"
+      },
+      {
+        "version": "0.2.0",
+        "url": "https://github.com/nextflow-io/nf-cloudcache/releases/download/0.2.0/nf-cloudcache-0.2.0.zip",
+        "date": "2023-08-17T15:31:48.481401Z",
+        "sha512sum": "b932fc5af9d73d3fc5a459951b57ceeb5ab00bb3813a09bb37c3149fba659e54bc650111c99529c97aa9053866693a4feeec928934158148fc2e0bafb6b613e2",
         "requires": ">=23.04.0"
       }
     ]
