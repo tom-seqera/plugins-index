@@ -648,6 +648,13 @@
         "date": "2023-07-22T18:07:41.640454+02:00",
         "sha512sum": "d7f59d68c868f6528a2ad6fd5e85155f6e277784f6a1f95b5f9c6486e7b03693e1d8b3ab4c619b58f33f0423b84dd4a90f422d16ff3640a172ac42264c68b973",
         "requires": ">=23.02.0-edge"
+      },
+      {
+        "version": "1.7.3-patch1",
+        "url": "https://github.com/nextflow-io/nf-google/releases/download/1.7.3-patch1/nf-google-1.7.3-patch1.zip",
+        "date": "2023-09-25T17:47:19.974546+02:00",
+        "sha512sum": "53a7dbdb0cae6abb953b8776aa519209013c4f072114bfff41099856726e7e0eedc5e8895ca934f05687729ce1102c4c561dfbd6a20c288940c3bb3b5a474151",
+        "requires": ">=23.02.0-edge"
       }
     ]
   },
@@ -1919,10 +1926,10 @@
       },
       {
         "version": "0.3.2",
-        "date": "2023-09-19T10:38:31.330492388+02:00",
         "url": "https://github.com/nextflow-io/nf-validation/releases/download/0.3.2/nf-validation-0.3.2.zip",
-        "requires": ">=22.10.0",
-        "sha512sum": "29aacfd66f9455eed5607701c0348dcc2ff90d988882618acbee7423740c6bb5ef17826ea690c7588ae006ca82afdbc3f0370fb9dc7d285b354bb39e06460b58"
+        "date": "2023-09-19T10:38:31.330492388+02:00",
+        "sha512sum": "29aacfd66f9455eed5607701c0348dcc2ff90d988882618acbee7423740c6bb5ef17826ea690c7588ae006ca82afdbc3f0370fb9dc7d285b354bb39e06460b58",
+        "requires": ">=22.10.0"
       }
     ]
   },
