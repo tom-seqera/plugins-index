@@ -1788,6 +1788,13 @@
         "date": "2023-10-10T12:05:58.656565+02:00",
         "sha512sum": "bb89c3a2a0ad9861455547ffdc349e4e329a3faf5ab3f909dbaa7ae5c833b1930aafadbd7b71f6dee1aa24793d8913361b01b9ca0f4a89fe460d4497d97f971c",
         "requires": ">=23.05.0-edge"
+      },
+      {
+        "version": "1.0.0",
+        "url": "https://github.com/nextflow-io/nf-wave/releases/download/1.0.0/nf-wave-1.0.0.zip",
+        "date": "2023-10-15T17:15:28.691721+02:00",
+        "sha512sum": "cf12965de0a1390d4c7b99a135b024ff5970592a62db53210a37f8ced870df7382a10b5c9fa5617730b025ac3fda1971cc0861aab3cb3cb43304c2240fd6c4fd",
+        "requires": ">=23.05.0-edge"
       }
     ]
   },
