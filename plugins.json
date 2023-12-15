@@ -2281,5 +2281,17 @@
         "requires": ">=22.10.2"
       }
     ]
+  },
+  {
+    "id": "nf-iridanext",
+    "releases": [
+      {
+        "version": "0.1.0",
+        "date": "2023-12-14T23:11:20.380355-06:00",
+        "url": "https://github.com/phac-nml/nf-iridanext/releases/download/0.1.0/nf-iridanext-0.1.0.zip",
+        "requires": ">=22.10.0",
+        "sha512sum": "f3756efb666dc922c396748e43c8d45e4b61d081bc6a8016a344620c581e26d5c97784a11e8664357a019df16c736b959b1db0a1061a23f7d61b5fd714bbe500"
+      }
+    ]
   }
 ]
