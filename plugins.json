@@ -407,6 +407,13 @@
         "date": "2023-11-24T22:39:43.476429+01:00",
         "sha512sum": "b1a2e1e60a31114f2aa41baeb9a799258d87ebf7230fb0f57b3ffdc6a730ed101341065a31008a416a0211560e34ac220e1fc5b93b446b10c3ed3d6fbea80cdd",
         "requires": ">=23.11.0-edge"
+      },
+      {
+        "version": "2.3.0",
+        "url": "https://github.com/nextflow-io/nf-amazon/releases/download/2.3.0/nf-amazon-2.3.0.zip",
+        "date": "2023-12-26T10:45:09.020538642Z",
+        "sha512sum": "07e623fe4d2b6ee9ce0f2161783be6e13e1535c5fc805846d7a75379ebfaf9c4588fe0a24a0c95833c3944368238d4b896e25156ef3323af29ccac04b76eb03e",
+        "requires": ">=23.12.0-edge"
       }
     ]
   },
@@ -704,6 +711,13 @@
         "date": "2023-11-24T22:39:43.476429+01:00",
         "sha512sum": "afc86eafb3ba639b9fd05664bafbd547fb655509c497ae27aadeca712cf74ac60f6d26703d3083bf7c51c712171371cd4ed404f42fd467930f710ab92c9a9e14",
         "requires": ">=23.11.0-edge"
+      },
+      {
+        "version": "1.10.0",
+        "url": "https://github.com/nextflow-io/nf-google/releases/download/1.10.0/nf-google-1.10.0.zip",
+        "date": "2023-12-26T10:48:40.863580812Z",
+        "sha512sum": "d289bb1fb57e91b2337f598d961224cdf5f2a75678959e91bbfc6be5a7b78f01c9e1410ba1c06c66dfe7974ee204fb50a1983c3535dc725a5d9ffd6cc19eacfc",
+        "requires": ">=23.12.0-edge"
       }
     ]
   },
@@ -1851,6 +1865,13 @@
         "date": "2023-11-24T22:39:43.476429+01:00",
         "sha512sum": "eec45bac9c2a7d0caa1b50337b002db09ca4f846bff358975ead8992cf3bd88aee204e0ba354a1fc34352360b17da8aa5db624441deecc170fd2d8a979d1fcaa",
         "requires": ">=23.11.0-edge"
+      },
+      {
+        "version": "1.2.0",
+        "url": "https://github.com/nextflow-io/nf-wave/releases/download/1.2.0/nf-wave-1.2.0.zip",
+        "date": "2023-12-20T12:10:39.618252+01:00",
+        "sha512sum": "3df6b0a4ab0472b9cbd9cb4e1b83a8d9e5bb1e30d9956bdcfbe0d5ba5c503f27a953ec8a9050034bd7d11768d1748e02581bd7787d2395f6465b2b41b4f8f767",
+        "requires": ">=23.12.0-edge"
       }
     ]
   },
