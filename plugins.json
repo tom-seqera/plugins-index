@@ -1137,6 +1137,13 @@
         "date": "2023-08-09T21:34:20.832946+02:00",
         "sha512sum": "db1e6556c8011c1f640943dbd697b4bb87c69022d83a9009a37da6502d6c2089090ab2f232ef8032b91fce225cfefddd4c4bed4c64b6c315dd175a9ada3aede9",
         "requires": ">=23.05.0-edge"
+      },
+      {
+        "version": "1.4.0",
+        "url": "https://github.com/seqeralabs/xpack-amzn/releases/download/1.4.0/xpack-amzn-1.4.0.zip",
+        "date": "2023-12-26T13:51:35.23295+01:00",
+        "sha512sum": "4bf8649a36a4035e97e834396b9d286b14dce508d83d4e6eee3a4a4b03f00fe4a5ba1ce8d90c19c53bb9720c3864aee8644d4f185569c1b490a7ea30747227ef",
+        "requires": ">=23.12.0-edge"
       }
     ]
   },
@@ -1448,6 +1455,13 @@
         "date": "2023-08-09T22:02:14.465833+02:00",
         "sha512sum": "c620410c3563444e7123b75f7fed905480aa9e40cca6de103f3bcb15ceb27b3498fc2ee10d4bf0ac73329fc4b842eff68af07e883235026ac57135f8000457ba",
         "requires": ">=23.01.0-edge"
+      },
+      {
+        "version": "1.1.0",
+        "url": "https://github.com/seqeralabs/xpack-google/releases/download/1.1.0/xpack-google-1.1.0.zip",
+        "date": "2023-12-26T13:54:18.94672+01:00",
+        "sha512sum": "0ffda9e705f2a3c2033255b0881acffa6e4d142df59333cad70702b9d0461efb1d2a208b98f159198a05e89a0132e72b8da4bdcf74567011c23bafc10bc18cd8",
+        "requires": ">=23.12.0-edge"
       }
     ]
   },
