@@ -2337,5 +2337,17 @@
         "requires": ">=22.10.2"
       }
     ]
+  },
+  {
+    "id": "nf-co2footprint",
+    "releases": [
+      {
+        "version": "1.0.0-beta",
+        "date": "2024-01-17T10:46:46+01:00",
+        "url": "https://github.com/nextflow-io/nf-co2footprint/releases/download/1.0.0-beta/nf-co2footprint-1.0.0-beta.zip",
+        "requires": ">=23.07.0",
+        "sha512sum": "b63d137bb2456a5bd31dcfa83acb9241c9cc5c1c88c9f611445f101dd44ede7e9c8848e83083b391096533f0613142ed44bf876d27e6890ea77b14c6c4caf8c5"
+      }
+    ]
   }
 ]
