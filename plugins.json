@@ -2471,5 +2471,17 @@
         "requires": ">=23.10.0"
       }
     ]
+  },
+  {
+    "id": "nf-ffq",
+    "releases": [
+      {
+        "version": "0.2.0",
+        "url": "https://github.com/nextflow-io/nf-ffq/releases/download/0.2.0/nf-ffq-0.2.0.zip",
+        "date": "2024-03-06T19:30:03.821679+01:00",
+        "sha512sum": "31dd0a1893fb0fc6c6aa68e492f657091f8e42947092299984e2edede8020c45d2c3a646672147291765893e216bc06a49e577e51825a3d3874be21b6b299f36",
+        "requires": ">=24.01.0-edge"
+      }
+    ]
   }
 ]
