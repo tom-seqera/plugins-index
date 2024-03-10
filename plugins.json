@@ -421,6 +421,13 @@
         "date": "2024-02-06T00:26:44.780569+01:00",
         "sha512sum": "acfc9e465efd27b4f0b96434443468669697a770e2c230f31b8b50d2e6bbd5a43ee26a678448e8aa83e5ba172dce828668a763c35af9aa08ec24000cead89dd8",
         "requires": ">=24.01.0-edge"
+      },
+      {
+        "version": "2.4.1",
+        "url": "https://github.com/nextflow-io/nf-amazon/releases/download/2.4.1/nf-amazon-2.4.1.zip",
+        "date": "2024-03-10T20:04:18.121214996Z",
+        "sha512sum": "7c654a25fc53e1acb087076f12b22ce7f6e37ea910883cb70773e68209411a4f2d8af9dd8bd8d6c093ed520fa6d65fc87774fe2e511da6769dbb91c30b29445e",
+        "requires": ">=24.01.0-edge"
       }
     ]
   },
@@ -488,6 +495,13 @@
         "url": "https://github.com/nextflow-io/nf-console/releases/download/1.1.0/nf-console-1.1.0.zip",
         "date": "2024-02-06T00:26:44.780569+01:00",
         "sha512sum": "ad54700f0cfd8cf5e970bc9264fe3e1211018fa55fd0a8f333bfcc76e4346ddaf4479aac34a15e26b74dac029241ed32da4cc7d795dbc74d053c6777617e0e85",
+        "requires": ">=24.01.0-edge"
+      },
+      {
+        "version": "1.1.1",
+        "url": "https://github.com/nextflow-io/nf-console/releases/download/1.1.1/nf-console-1.1.1.zip",
+        "date": "2024-03-10T20:05:02.66844452Z",
+        "sha512sum": "c3c69a0e264c95799b3d837e4868f864d6c9e4ae159171e2f6cd18d35699f3ccdd8505f376bac9d0431e2244ddc59e3b87e4e058aa5210747b15c59c0c7953c4",
         "requires": ">=24.01.0-edge"
       }
     ]
@@ -994,6 +1008,13 @@
         "date": "2024-02-06T00:26:44.780569+01:00",
         "sha512sum": "608e87bac9a1e53edababd6c01c450103a9d56d04070898a40b3bcd08146f2778b09f86d5198577605f7e8c543fd4d8d4934a52fa0759cbf91180b0b4c9b3b66",
         "requires": ">=24.01.0-edge"
+      },
+      {
+        "version": "1.8.1",
+        "url": "https://github.com/nextflow-io/nf-tower/releases/download/1.8.1/nf-tower-1.8.1.zip",
+        "date": "2024-03-10T20:05:13.889851513Z",
+        "sha512sum": "97c11c16be825ff741ac68a7017a3fefff6c656dae0f986e8bfb9901c419584226d8952b28528f18c348d7af3a388a7d264a07f10a1970452c1035fa9b2ce963",
+        "requires": ">=24.01.0-edge"
       }
     ]
   },
@@ -1477,6 +1498,13 @@
         "url": "https://github.com/nextflow-io/nf-azure/releases/download/1.5.0/nf-azure-1.5.0.zip",
         "date": "2024-02-06T00:26:44.780569+01:00",
         "sha512sum": "6ed5324d957b395885b63821cc065b05eae03ac50c7a6309237f96bd5babce0c52150ef1bd5df560d9e45da03a3184201cd669f213e9e1c8959d5efb81019a0d",
+        "requires": ">=24.01.0-edge"
+      },
+      {
+        "version": "1.5.1",
+        "url": "https://github.com/nextflow-io/nf-azure/releases/download/1.5.1/nf-azure-1.5.1.zip",
+        "date": "2024-03-10T20:04:33.689543132Z",
+        "sha512sum": "ce587761ed143bc11382a5417f1fda3628df3cc104c97d3588b0b0efbad3f4b6a355e2077e4d4946996e112ddc0cec64e613351b72ea057b972727e93b64a056",
         "requires": ">=24.01.0-edge"
       }
     ]
@@ -1977,6 +2005,13 @@
         "date": "2024-02-06T00:31:39.986716+01:00",
         "sha512sum": "3d39f627ca02c2683ddc6217e74b9454727c3057cac5fe7c2aca0585ed6f24dde6328a434d476ef6437672310f02b94f68fdb6aa4c7be4a3c158c33394699a0f",
         "requires": ">=24.01.0-edge"
+      },
+      {
+        "version": "1.3.1",
+        "url": "https://github.com/nextflow-io/nf-wave/releases/download/1.3.1/nf-wave-1.3.1.zip",
+        "date": "2024-03-10T20:05:24.066340604Z",
+        "sha512sum": "88953bd7a1988181a9e4919167e4754cdf69c163139836288aa7a08cbcb3a1b745ce002f7302f3d8f5ecf222002ba00a4c5c0bcbd70bdacae622689bb4dcdcd8",
+        "requires": ">=24.01.0-edge"
       }
     ]
   },
@@ -2380,6 +2415,13 @@
         "url": "https://github.com/nextflow-io/nf-cloudcache/releases/download/0.4.0/nf-cloudcache-0.4.0.zip",
         "date": "2024-02-06T00:26:44.780569+01:00",
         "sha512sum": "ee92252ae0dafeb5251f5df09d839e8300ef99d1960e66d7965327c40591951867bfc24b05b6e3ac598e7b0135a17ccc9cab4bcf7d136c13bed7b28e58f46826",
+        "requires": ">=24.01.0-edge"
+      },
+      {
+        "version": "0.4.1",
+        "url": "https://github.com/nextflow-io/nf-cloudcache/releases/download/0.4.1/nf-cloudcache-0.4.1.zip",
+        "date": "2024-03-10T20:04:51.646578397Z",
+        "sha512sum": "dd8abb71b5591011550957682ee80e96978820f597296ca3a08df492a6ec8acdf5f48c82c2e82b3d004cdb66aa2fc155ca0bf1691b4afe97f6f9f69bb6e90734",
         "requires": ">=24.01.0-edge"
       }
     ]
