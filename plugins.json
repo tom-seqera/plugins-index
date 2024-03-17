@@ -2525,5 +2525,17 @@
         "requires": ">=24.01.0-edge"
       }
     ]
+  },
+  {
+    "id": "nf-ai",
+    "releases": [
+      {
+        "version": "0.1.0",
+        "url": "https://github.com/nextflow-io/nf-ai/releases/download/0.1.0/nf-ai-0.1.0.zip",
+        "date": "2024-03-17T16:18:35.038011+01:00",
+        "sha512sum": "7fc6700783e9cf09983010eb49e10e34a38dce9e9097e87d0a4bb45fb259c46688997dbd858d07a0cf3776ef17bb7deb0f31fdaa7b3c6d018d283b8e07575428",
+        "requires": ">=24.01.0-edge"
+      }
+    ]
   }
 ]
