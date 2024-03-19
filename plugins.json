@@ -2532,5 +2532,17 @@
         "requires": ">=24.01.0-edge"
       }
     ]
+  },
+  {
+    "id": "nf-gpt",
+    "releases": [
+      {
+        "version": "0.1.0",
+        "url": "https://github.com/nextflow-io/nf-gpt/releases/download/0.1.0/nf-gpt-0.1.0.zip",
+        "date": "2024-03-19T16:29:33.780278Z",
+        "sha512sum": "2331d8177186107dfac81423352b4c1a98d3d1bda8db30182788d7261b57a29c0bb29698ffb18fe4b1f8c24ca6fe32930f5f8415fb49dd240441fc8c529ff764",
+        "requires": ">=24.01.0-edge"
+      }
+    ]
   }
 ]
