@@ -2177,10 +2177,10 @@
       },
       {
         "version": "1.2.2",
-        "date": "2024-03-26T20:22:33.589794896-05:00",
         "url": "https://github.com/nextflow-io/nf-prov/releases/download/1.2.2/nf-prov-1.2.2.zip",
-        "requires": ">=23.04.0",
-        "sha512sum": "f50f2e6a362bf6930d79689342e95ce8f992aea8c5b6345eae85d81ced4a63c958bdf9bb4a6eb9c9eb96d24d282c30db80b3154d8d0f7eee7213762af58ec571"
+        "date": "2024-03-26T20:22:33.589794896-05:00",
+        "sha512sum": "f50f2e6a362bf6930d79689342e95ce8f992aea8c5b6345eae85d81ced4a63c958bdf9bb4a6eb9c9eb96d24d282c30db80b3154d8d0f7eee7213762af58ec571",
+        "requires": ">=23.04.0"
       }
     ]
   },
@@ -2549,6 +2549,13 @@
         "date": "2024-03-19T16:29:33.780278Z",
         "sha512sum": "2331d8177186107dfac81423352b4c1a98d3d1bda8db30182788d7261b57a29c0bb29698ffb18fe4b1f8c24ca6fe32930f5f8415fb49dd240441fc8c529ff764",
         "requires": ">=24.01.0-edge"
+      },
+      {
+        "version": "0.3.0",
+        "url": "https://github.com/nextflow-io/nf-gpt/releases/download/0.3.0/nf-gpt-0.3.0.zip",
+        "date": "2024-04-05T10:55:10.442343+02:00",
+        "sha512sum": "78f6a12bede40f2fa2cbb7006aab149fa8c8c68f157c2d9a7d9b7004419a53df63840c2e774e535db4751c242e44b861c8b1d692b78c1d477af15d1fe7135475",
+        "requires": ">=24.01.0-edge"
       }
     ]
   },
@@ -2557,18 +2564,18 @@
     "releases": [
       {
         "version": "0.1.0",
-        "date": "2024-03-23T03:45:12.600508887-05:00",
         "url": "https://github.com/bentsherman/nf-boost/releases/download/0.1.0/nf-boost-0.1.0.zip",
-        "requires": ">=23.10.0",
-        "sha512sum": "e9da537ccd131e7841edbba7a869769ea90ec0ec6081679065b18d51e5a40874dfd747bbde6011a5f568722d947a6480177c8267cc0e84428314e92f88579503"
+        "date": "2024-03-23T03:45:12.600508887-05:00",
+        "sha512sum": "e9da537ccd131e7841edbba7a869769ea90ec0ec6081679065b18d51e5a40874dfd747bbde6011a5f568722d947a6480177c8267cc0e84428314e92f88579503",
+        "requires": ">=23.10.0"
       },
       {
         "version": "0.2.0",
-        "date": "2024-03-26T04:00:29.279943136-05:00",
         "url": "https://github.com/bentsherman/nf-boost/releases/download/0.2.0/nf-boost-0.2.0.zip",
-        "requires": ">=23.10.0",
-        "sha512sum": "d41320026fd5b7f341962ba26c79951057d06e8138c366717dd0f95586c100516580432b65be0627ec4dfef686e7481bab196e6859a597e3f850b26876bf8bf2"
-      }      
+        "date": "2024-03-26T04:00:29.279943136-05:00",
+        "sha512sum": "d41320026fd5b7f341962ba26c79951057d06e8138c366717dd0f95586c100516580432b65be0627ec4dfef686e7481bab196e6859a597e3f850b26876bf8bf2",
+        "requires": ">=23.10.0"
+      }
     ]
   }
 ]
