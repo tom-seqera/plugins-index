@@ -2591,6 +2591,13 @@
         "date": "2024-04-05T10:55:10.442343+02:00",
         "sha512sum": "78f6a12bede40f2fa2cbb7006aab149fa8c8c68f157c2d9a7d9b7004419a53df63840c2e774e535db4751c242e44b861c8b1d692b78c1d477af15d1fe7135475",
         "requires": ">=24.01.0-edge"
+      },
+      {
+        "version": "0.4.0",
+        "url": "https://github.com/nextflow-io/nf-gpt/releases/download/0.4.0/nf-gpt-0.4.0.zip",
+        "date": "2024-04-15T17:40:41.297607+02:00",
+        "sha512sum": "e743f17f6ce3086f3693cf10989deee2598588af5795e7dd271d7b6c420d1b7a145904fb4f4c3863956a5a8e0886106c1b4ddca39e509dc7bc35b8a3eec352fd",
+        "requires": ">=24.03.0-edge"
       }
     ]
   },
