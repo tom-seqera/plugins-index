@@ -449,6 +449,13 @@
         "date": "2024-05-14T10:17:15.668108+02:00",
         "sha512sum": "7a0ad04a1e14d800aaf90c196b433f76a081193b9660d5814460a0354b5d8f91951e07788e6aee05e817283fcafef650408cd1f6c969654efa30f5050461dbaa",
         "requires": ">=24.04.0-edge"
+      },
+      {
+        "version": "2.5.2",
+        "url": "https://github.com/nextflow-io/nf-amazon/releases/download/2.5.2/nf-amazon-2.5.2.zip",
+        "date": "2024-05-20T12:03:25.59956+02:00",
+        "sha512sum": "95e7ddbb05772400cf116531614bce452417630982f134d57326cfe084ac203ab62a86cc48450fe2bcb0388772699000df17a70270ecbe0b879cd97e5f9f0d0d",
+        "requires": ">=24.04.1"
       }
     ]
   },
@@ -809,6 +816,13 @@
         "date": "2024-05-20T11:05:58.006167+02:00",
         "sha512sum": "adcab46b6dd752fe8491f1a6148be3080724d1269216346f10552108be9a69370c25d22e410df254019fbe2a7f77c413e2e44976ed87361a1fe6a9296a5efa84",
         "requires": ">=24.04.0-edge"
+      },
+      {
+        "version": "1.13.2",
+        "url": "https://github.com/nextflow-io/nf-google/releases/download/1.13.2/nf-google-1.13.2.zip",
+        "date": "2024-05-20T12:03:14.25899+02:00",
+        "sha512sum": "bf4cfe395be0088733106d73d9930d11ae4237f3e706f8f58a912faccb995e0275c97b058db71216109dd3c87ad54c1a641a41a1bb5d848dbca1200838fd682c",
+        "requires": ">=24.04.1"
       }
     ]
   },
