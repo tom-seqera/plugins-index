@@ -531,6 +531,13 @@
         "date": "2024-05-13T11:49:03.704965+02:00",
         "sha512sum": "69909f7f925f10dc7597b50b1423bd4fe0e92760782e612079ba63cc3b0d6bf6e280b3f12a58408c6d7e9e58f2d504a9d96ba29e555e60f7b1220de6246c3964",
         "requires": ">=24.01.0-edge"
+      },
+      {
+        "version": "1.1.3",
+        "url": "https://github.com/nextflow-io/nf-console/releases/download/1.1.3/nf-console-1.1.3.zip",
+        "date": "2024-05-20T11:05:47.848321+02:00",
+        "sha512sum": "9837bbd46e9b5118bceb5945a6bcdaeb7da24894ae6ec5112f89d01e0451906227936d5590a916a52e0a13115c635aa23365d0c42d9f364f3da2a548221be860",
+        "requires": ">=24.01.0-edge"
       }
     ]
   },
@@ -794,6 +801,13 @@
         "url": "https://github.com/nextflow-io/nf-google/releases/download/1.13.0/nf-google-1.13.0.zip",
         "date": "2024-05-13T11:49:17.015839+02:00",
         "sha512sum": "41fea9b314a848b4bcfc30f586365fe04b88334872fdf56b992ef5dc47e72773e03209692e3e9e704a647b339396ab6f0d37c964fbd39c50c1b9874d04991f03",
+        "requires": ">=24.04.0-edge"
+      },
+      {
+        "version": "1.13.1",
+        "url": "https://github.com/nextflow-io/nf-google/releases/download/1.13.1/nf-google-1.13.1.zip",
+        "date": "2024-05-20T11:05:58.006167+02:00",
+        "sha512sum": "adcab46b6dd752fe8491f1a6148be3080724d1269216346f10552108be9a69370c25d22e410df254019fbe2a7f77c413e2e44976ed87361a1fe6a9296a5efa84",
         "requires": ">=24.04.0-edge"
       }
     ]
@@ -2109,6 +2123,13 @@
         "url": "https://github.com/nextflow-io/nf-wave/releases/download/1.4.1/nf-wave-1.4.1.zip",
         "date": "2024-05-13T11:49:42.11216+02:00",
         "sha512sum": "7ec4fb6a56b80f9254bc2d7a3a67070e8b4975a02ed0826b6ad075dde9e012c91067294e65a4e57a07f60ad2e07f92a939a027af62aeba6c021dda3ffe867b47",
+        "requires": ">=24.01.0-edge"
+      },
+      {
+        "version": "1.4.2",
+        "url": "https://github.com/nextflow-io/nf-wave/releases/download/1.4.2/nf-wave-1.4.2.zip",
+        "date": "2024-05-20T11:06:11.042068+02:00",
+        "sha512sum": "61e88dc8e3cd9adc52f6fd8ca4da1019f36ce27e5b98f386f7c01b2bdedc9470f1f8a3a4fb6e1b82228785daa5fd546a35f84d2446ce385050774f3a3bcc6993",
         "requires": ">=24.01.0-edge"
       }
     ]
