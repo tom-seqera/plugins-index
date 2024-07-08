@@ -872,6 +872,13 @@
         "date": "2024-06-17T22:46:57.863676+02:00",
         "sha512sum": "5d7536e9183897c7b0fa2e430367aa6a94407389759f7036b7b914a1a3fc151f41a2dfddafbec661ffcf209f7ff3b68ac4974e44bdfc61b3fd4ded76982d6a56",
         "requires": ">=24.04.1"
+      },
+      {
+        "version": "1.13.4",
+        "url": "https://github.com/nextflow-io/nf-google/releases/download/1.13.4/nf-google-1.13.4.zip",
+        "date": "2024-07-08T20:32:33.134598069Z",
+        "sha512sum": "f965ef9f60740ee1456d12b07a9ac7cd617f0a7ac2772920e12bb69b9060218660decb782791a00d9a9d92f406f53d74fa56fd119335c8aa93e67a74d4260488",
+        "requires": ">=24.04.1"
       }
     ]
   },
@@ -1695,6 +1702,13 @@
         "date": "2024-06-17T22:45:34.311502+02:00",
         "sha512sum": "f89d4b48af09ca4286adefbcfbcaf810f44d63682db35fc683f480f5fa32ac38031af1534868cb276749de14e9eb8445268057a4206cb570258b0ae484618147",
         "requires": ">=24.01.0-edge"
+      },
+      {
+        "version": "1.8.0",
+        "url": "https://github.com/nextflow-io/nf-azure/releases/download/1.8.0/nf-azure-1.8.0.zip",
+        "date": "2024-07-08T20:32:20.293616285Z",
+        "sha512sum": "01019b0a5c4b161041005225a6e3b76e3c6a44f8576ae7c1837c81d7768e355ef2cfe6c34dfa1d2be9bd46ffc5bc3899998a8345823f7f16d1a29fc934acb660",
+        "requires": ">=24.01.0-edge"
       }
     ]
   },
@@ -2249,6 +2263,13 @@
         "url": "https://github.com/nextflow-io/nf-wave/releases/download/1.4.3/nf-wave-1.4.3.zip",
         "date": "2024-06-17T22:47:08.347439+02:00",
         "sha512sum": "ff832cf51887fe279214369847e8cc6e0e653f2994ee792e68090fb713057d6843c897ba8c551827d5b31351fa2040e1e4f814f302f752afa72dec6441238700",
+        "requires": ">=24.01.0-edge"
+      },
+      {
+        "version": "1.4.4",
+        "url": "https://github.com/nextflow-io/nf-wave/releases/download/1.4.4/nf-wave-1.4.4.zip",
+        "date": "2024-07-08T20:32:46.6164502Z",
+        "sha512sum": "e60ae5dab51942534a047dfc6eb9c2de6457da4e91cf013ec17756f38603b6ebae466a62e6094c80d3986bfd952f4327b86009aaa8f10331723c8d1f497493af",
         "requires": ">=24.01.0-edge"
       }
     ]
@@ -2870,10 +2891,10 @@
       },
       {
         "version": "2.0.1",
-        "date": "2024-07-04T11:26:02.004524381+02:00",
         "url": "https://github.com/nextflow-io/nf-schema/releases/download/2.0.1/nf-schema-2.0.1.zip",
-        "requires": ">=22.10.0",
-        "sha512sum": "6113cdc2953d05633f0d904f2f94b01b4064b5194a861d0544145c208fa3126838742b0526869a950376b295ca3469534d4982784565698d24568ad188df1370"
+        "date": "2024-07-04T11:26:02.004524381+02:00",
+        "sha512sum": "6113cdc2953d05633f0d904f2f94b01b4064b5194a861d0544145c208fa3126838742b0526869a950376b295ca3469534d4982784565698d24568ad188df1370",
+        "requires": ">=22.10.0"
       }
     ]
   },
@@ -2882,17 +2903,17 @@
     "releases": [
       {
         "version": "0.1.0",
-        "date": "2024-06-26T13:21:13.702327+02:00",
         "url": "https://github.com/nextflow-io/nf-nomad/releases/download/0.1.0/nf-nomad-0.1.0.zip",
-        "requires": ">=23.10.0",
-        "sha512sum": "9e59d60ffa925f1e63b8e79c1ecced80ea754eb06014fc3b5f8008d457368ea8568df87304beb4d3038dc09a0bc92a3517980d22014318cbd9f39f5a661d551e"
+        "date": "2024-06-26T13:21:13.702327+02:00",
+        "sha512sum": "9e59d60ffa925f1e63b8e79c1ecced80ea754eb06014fc3b5f8008d457368ea8568df87304beb4d3038dc09a0bc92a3517980d22014318cbd9f39f5a661d551e",
+        "requires": ">=23.10.0"
       },
       {
         "version": "0.1.1",
-        "date": "2024-07-02T17:45:09.687499422Z",
         "url": "https://github.com/nextflow-io/nf-nomad/releases/download/0.1.1/nf-nomad-0.1.1.zip",
-        "requires": ">=23.10.0",
-        "sha512sum": "2763d6689b501e8610bf6a1b926e0eded9ceab6698299b0be6ba23410d8eb2c6ab427055604572e2b68ab685f6b52fac019d664446e455bdcaebaf48eef95457"
+        "date": "2024-07-02T17:45:09.687499422Z",
+        "sha512sum": "2763d6689b501e8610bf6a1b926e0eded9ceab6698299b0be6ba23410d8eb2c6ab427055604572e2b68ab685f6b52fac019d664446e455bdcaebaf48eef95457",
+        "requires": ">=23.10.0"
       }
     ]
   }
