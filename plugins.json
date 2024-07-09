@@ -879,6 +879,13 @@
         "date": "2024-07-08T20:32:33.134598069Z",
         "sha512sum": "f965ef9f60740ee1456d12b07a9ac7cd617f0a7ac2772920e12bb69b9060218660decb782791a00d9a9d92f406f53d74fa56fd119335c8aa93e67a74d4260488",
         "requires": ">=24.04.1"
+      },
+      {
+        "version": "1.13.2-patch1",
+        "url": "https://github.com/nextflow-io/nf-google/releases/download/1.13.2-patch1/nf-google-1.13.2-patch1.zip",
+        "date": "2024-07-09T23:09:09.217585+02:00",
+        "sha512sum": "5e6406e6976727352a9bbcb30c072c755803a844c60f180b0ff47a1d4d577da7b626dcf5f52d14a22b7394a2f91df23260165a98dcbda6c990b6b6e13f23c437",
+        "requires": ">=24.04.3"
       }
     ]
   },
