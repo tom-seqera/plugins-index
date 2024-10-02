@@ -505,6 +505,13 @@
         "date": "2024-09-04T17:30:22.977625+02:00",
         "sha512sum": "b1121aedbeca264421dc92f3ff7149cd421a1392a53f13cf07197d16e58fc4675b418f9621e4d3e34f648d7560d993852fb3cab9794310116aa8235999d1c77f",
         "requires": ">=24.04.4"
+      },
+      {
+        "version": "2.9.0",
+        "url": "https://github.com/nextflow-io/nf-amazon/releases/download/2.9.0/nf-amazon-2.9.0.zip",
+        "date": "2024-10-02T09:36:54.881412-04:00",
+        "sha512sum": "06335321de23c978f44a61b4a6268d296fc348e34bd2f26ae18961b3f8c57ab76fd3e73153b2fe0958910cd24e42e55feb981cc9cc62d8cf56432a01f0c6f655",
+        "requires": ">=24.04.4"
       }
     ]
   },
@@ -1807,6 +1814,13 @@
         "date": "2024-09-04T17:30:38.930674+02:00",
         "sha512sum": "963ebd6bc661bbed5fc36fd86cd396a3f879f76f4dac19b62875ddd9cc218261a0dbbc89b1dd552b88a088f2baa3a8dc1ea6ad185ddf3a076b0cfdab56f86132",
         "requires": ">=24.04.4"
+      },
+      {
+        "version": "1.10.0",
+        "url": "https://github.com/nextflow-io/nf-azure/releases/download/1.10.0/nf-azure-1.10.0.zip",
+        "date": "2024-10-02T09:37:09.771778-04:00",
+        "sha512sum": "c98d23abff883dac4a0ad97f0776e172a9db9e44a4e4431856a56fe2e618f5c01a13ccb8ab5fd74d66a16c01ba139ee9294aaa1f15e93d32b3e5009778aed497",
+        "requires": ">=24.04.4"
       }
     ]
   },
@@ -2411,6 +2425,13 @@
         "date": "2024-09-04T17:31:22.383751+02:00",
         "sha512sum": "b6bc0f09c5c3d667652bde01c92c25e97909f2ea4da9914a7002e919b0213cc0e785b594fcb6ae482da8fb75c8c5a3f18dd1ae1bf989e14e43579a7b51fd820b",
         "requires": ">=24.04.4"
+      },
+      {
+        "version": "1.6.0",
+        "url": "https://github.com/nextflow-io/nf-wave/releases/download/1.6.0/nf-wave-1.6.0.zip",
+        "date": "2024-10-02T09:37:49.247209-04:00",
+        "sha512sum": "c6b7e86596b3a0003293f9b91a42a5ffbc905c4292dc9d67978390aa39e6b3b21c1691e6ce257bcf2ca177538cc11b9ab7c79d99770949704ae609c7684060bf",
+        "requires": ">=24.04.4"
       }
     ]
   },
@@ -2834,24 +2855,24 @@
       },
       {
         "version": "0.4.4",
-        "date": "2024-09-11T15:43:34.567847-07:00",
         "url": "https://github.com/MemVerge/nf-float/releases/download/0.4.4/nf-float-0.4.4.zip",
-        "requires": ">=23.04.0",
-        "sha512sum": "29ab5cc167f2ac6f33e646e4caf9378bc2f3007d8c93aa4cdf549b8e05f02ec5999f0461fe866de9c3ca876cae101f5eb8a6d8c58a44ad61bd1ac7946001dc40"
+        "date": "2024-09-11T15:43:34.567847-07:00",
+        "sha512sum": "29ab5cc167f2ac6f33e646e4caf9378bc2f3007d8c93aa4cdf549b8e05f02ec5999f0461fe866de9c3ca876cae101f5eb8a6d8c58a44ad61bd1ac7946001dc40",
+        "requires": ">=23.04.0"
       },
       {
         "version": "0.4.5",
-        "date": "2024-09-18T16:17:27.62367-07:00",
         "url": "https://github.com/MemVerge/nf-float/releases/download/0.4.5/nf-float-0.4.5.zip",
-        "requires": ">=23.04.0",
-        "sha512sum": "e127b79c94470ed141e37b7a18315897b80fd84a0a008480d3d825a316ce5e711d21b563de36e8ff9faa417c84e53c718637b3f2a01ec9e149cc31f36db16c4a"
+        "date": "2024-09-18T16:17:27.62367-07:00",
+        "sha512sum": "e127b79c94470ed141e37b7a18315897b80fd84a0a008480d3d825a316ce5e711d21b563de36e8ff9faa417c84e53c718637b3f2a01ec9e149cc31f36db16c4a",
+        "requires": ">=23.04.0"
       },
       {
         "version": "0.4.6",
-        "date": "2024-09-26T11:48:48.328799-07:00",
         "url": "https://github.com/MemVerge/nf-float/releases/download/0.4.6/nf-float-0.4.6.zip",
-        "requires": ">=23.04.0",
-        "sha512sum": "de0dc075e51162a0dd3d7a538345e55376f9e645ae14682560d2282af8faa0f63a2cd97ba1cbd889e4b54c7421efddffe0e972970ca59979accc6870bad0b962"
+        "date": "2024-09-26T11:48:48.328799-07:00",
+        "sha512sum": "de0dc075e51162a0dd3d7a538345e55376f9e645ae14682560d2282af8faa0f63a2cd97ba1cbd889e4b54c7421efddffe0e972970ca59979accc6870bad0b962",
+        "requires": ">=23.04.0"
       }
     ]
   },
@@ -3115,10 +3136,10 @@
       },
       {
         "version": "2.1.1",
-        "date": "2024-09-19T11:03:41.601745266+02:00",
         "url": "https://github.com/nextflow-io/nf-schema/releases/download/2.1.1/nf-schema-2.1.1.zip",
-        "requires": ">=23.10.0",
-        "sha512sum": "67676b2a98583672795e01bbc8af5b588845c198068b5f61b411b3cbb3bd3d51c0ded0da5969e721c30d13b2f2c436383b49d585806c8d1534ec644057b4938e"
+        "date": "2024-09-19T11:03:41.601745266+02:00",
+        "sha512sum": "67676b2a98583672795e01bbc8af5b588845c198068b5f61b411b3cbb3bd3d51c0ded0da5969e721c30d13b2f2c436383b49d585806c8d1534ec644057b4938e",
+        "requires": ">=23.10.0"
       }
     ]
   },
@@ -3155,10 +3176,10 @@
       },
       {
         "version": "0.3.0",
-        "date": "2024-09-20T12:00:02.424461498Z",
         "url": "https://github.com/nextflow-io/nf-nomad/releases/download/0.3.0/nf-nomad-0.3.0.zip",
-        "requires": ">=24.04.0",
-        "sha512sum": "7759465a3473e551839e39ba295bb94432429a9c4dfafdde7fd5b4f768b4f29073afedf07afecef36771f6ece8738830df6d300dbb82f58feb99de20d2f859db"
+        "date": "2024-09-20T12:00:02.424461498Z",
+        "sha512sum": "7759465a3473e551839e39ba295bb94432429a9c4dfafdde7fd5b4f768b4f29073afedf07afecef36771f6ece8738830df6d300dbb82f58feb99de20d2f859db",
+        "requires": ">=24.04.0"
       }
     ]
   },
@@ -3167,17 +3188,17 @@
     "releases": [
       {
         "version": "1.0.0",
-        "date": "2024-09-04T11:56:33.481+08:00",
         "url": "https://github.com/Tencent/nf-tencentcloud/releases/download/1.0.0/nf-tencentcloud-1.0.0.zip",
-        "requires": ">=22.10.7",
-        "sha512sum": "3bc8be7d4ad0fbfee70b7857b0d59df98a66b96cdbe6eca3625170a0015c359e36b4f6e10181aa732c21de8053e8623d0e673b7b0c14eef3d9a1996abd73e50d"
+        "date": "2024-09-04T11:56:33.481+08:00",
+        "sha512sum": "3bc8be7d4ad0fbfee70b7857b0d59df98a66b96cdbe6eca3625170a0015c359e36b4f6e10181aa732c21de8053e8623d0e673b7b0c14eef3d9a1996abd73e50d",
+        "requires": ">=22.10.7"
       },
       {
         "version": "2.0.0",
-        "date": "2024-09-04T11:57:02.169+08:00",
         "url": "https://github.com/Tencent/nf-tencentcloud/releases/download/2.0.0/nf-tencentcloud-2.0.0.zip",
-        "requires": ">=23.10.1",
-        "sha512sum": "dad781e01ee2f5e71a53eb3c1b6ee38e1aece818861db3687e16a56a5148c7de4392360db7a03caf8775c1207e416f95eec0fd7f8e5665f52ef386bc20167bfb"
+        "date": "2024-09-04T11:57:02.169+08:00",
+        "sha512sum": "dad781e01ee2f5e71a53eb3c1b6ee38e1aece818861db3687e16a56a5148c7de4392360db7a03caf8775c1207e416f95eec0fd7f8e5665f52ef386bc20167bfb",
+        "requires": ">=23.10.1"
       }
     ]
   }
