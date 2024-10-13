@@ -942,6 +942,13 @@
         "date": "2024-09-04T17:30:51.598147+02:00",
         "sha512sum": "31f9643259ca470b8bd9f4445a797512e0f1d0e83be831ade008e7aa0fd23047f5e3b82b1a1ce47b12b4f74b0409e29d67e629f91a77f6a9df8af50e2032d608",
         "requires": ">=24.04.4"
+      },
+      {
+        "version": "1.15.1",
+        "url": "https://github.com/nextflow-io/nf-google/releases/download/1.15.1/nf-google-1.15.1.zip",
+        "date": "2024-10-13T14:49:50.588055+02:00",
+        "sha512sum": "3aa76f5ed13907ddf685d991ae22675a5f915292eec3dbc126649ebc60601d1b4865650daaebebe8e607a9d054cb75f8d70889ab021444c4773e03dfc64ed4d3",
+        "requires": ">=24.04.4"
       }
     ]
   },
@@ -2431,6 +2438,13 @@
         "url": "https://github.com/nextflow-io/nf-wave/releases/download/1.6.0/nf-wave-1.6.0.zip",
         "date": "2024-10-02T09:37:49.247209-04:00",
         "sha512sum": "c6b7e86596b3a0003293f9b91a42a5ffbc905c4292dc9d67978390aa39e6b3b21c1691e6ce257bcf2ca177538cc11b9ab7c79d99770949704ae609c7684060bf",
+        "requires": ">=24.04.4"
+      },
+      {
+        "version": "1.7.0",
+        "url": "https://github.com/nextflow-io/nf-wave/releases/download/1.7.0/nf-wave-1.7.0.zip",
+        "date": "2024-10-13T14:50:01.788731+02:00",
+        "sha512sum": "b2d6689378d13c265b8082aece9d664bb0c439908959fe2ccb18ece00723d1fa3354cd0477e2f85ad9707e886fe1a384ec4f97fc4dc2bff7b5727c5e535ce4b5",
         "requires": ">=24.04.4"
       }
     ]
