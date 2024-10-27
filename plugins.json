@@ -1246,6 +1246,13 @@
         "date": "2024-08-05T23:15:43.193197+02:00",
         "sha512sum": "41b277b6cc735751e8b3a5b978075e223b55de0c0e52c69f584e1156efc1aec79e7c08b9cd3b3fc2a4783020d36231694f46cbaa4304a3e57340cde7a63d381e",
         "requires": ">=24.04.4"
+      },
+      {
+        "version": "1.9.3",
+        "url": "https://github.com/nextflow-io/nf-tower/releases/download/1.9.3/nf-tower-1.9.3.zip",
+        "date": "2024-10-27T21:20:44.83134+01:00",
+        "sha512sum": "ff647246af4fcd7049c7b91d3ba88b699831450afb6cc7e13a59ff740e35dacafaf9dc8f5ed9d43d6afbd608843de32fd253bc072fcd235561a491189f47f773",
+        "requires": ">=24.04.4"
       }
     ]
   },
@@ -1834,6 +1841,13 @@
         "url": "https://github.com/nextflow-io/nf-azure/releases/download/1.10.0/nf-azure-1.10.0.zip",
         "date": "2024-10-02T09:37:09.771778-04:00",
         "sha512sum": "c98d23abff883dac4a0ad97f0776e172a9db9e44a4e4431856a56fe2e618f5c01a13ccb8ab5fd74d66a16c01ba139ee9294aaa1f15e93d32b3e5009778aed497",
+        "requires": ">=24.04.4"
+      },
+      {
+        "version": "1.10.1",
+        "url": "https://github.com/nextflow-io/nf-azure/releases/download/1.10.1/nf-azure-1.10.1.zip",
+        "date": "2024-10-27T21:20:29.955543+01:00",
+        "sha512sum": "739500e165ac5d21bf879a37fa43ef8929fb1b45924579b1ac4d511129e9886713411b193a26fa9ea712318a19ec7e9a5cdb8d55f8be4a213d4fafb1310bd53f",
         "requires": ">=24.04.4"
       }
     ]
@@ -2459,6 +2473,13 @@
         "url": "https://github.com/nextflow-io/nf-wave/releases/download/1.7.1/nf-wave-1.7.1.zip",
         "date": "2024-10-14T23:35:26.453309+02:00",
         "sha512sum": "9b2bbb41ab66ff892d212355897e487d3e27886b88dccabd610cf6a01605073a4556a2d1eceb98735b83853f2df22d03a7d8b77a9b12bc1738fe975333311e3e",
+        "requires": ">=24.04.4"
+      },
+      {
+        "version": "1.7.2",
+        "url": "https://github.com/nextflow-io/nf-wave/releases/download/1.7.2/nf-wave-1.7.2.zip",
+        "date": "2024-10-27T21:20:55.020252+01:00",
+        "sha512sum": "0c2cfc013fafb946d9a8bac48ea9e8a0d055d1b0c615fa48d6ea02d1d1e0303f2443df78147fcfa8954de30ab5325052496290683880176c04f77981092b1219",
         "requires": ">=24.04.4"
       }
     ]
@@ -3178,10 +3199,10 @@
       },
       {
         "version": "2.1.2",
-        "date": "2024-10-18T11:53:04.247140694+02:00",
         "url": "https://github.com/nextflow-io/nf-schema/releases/download/2.1.2/nf-schema-2.1.2.zip",
-        "requires": ">=23.10.0",
-        "sha512sum": "b7dcace8359490216a13cabc95697d6fcf2204b24ee357e8e4a04beecb5fbb2902b202570c3919acd5aa4f308c4885c272bd509e9166614c7ae9b0a132e14878"
+        "date": "2024-10-18T11:53:04.247140694+02:00",
+        "sha512sum": "b7dcace8359490216a13cabc95697d6fcf2204b24ee357e8e4a04beecb5fbb2902b202570c3919acd5aa4f308c4885c272bd509e9166614c7ae9b0a132e14878",
+        "requires": ">=23.10.0"
       }
     ]
   },
