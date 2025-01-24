@@ -3325,5 +3325,18 @@
         "requires": ">=24.01.0-edge"
       }
     ]
+  },
+  {
+    "id": "nf-hola",
+    "provider": "nextflow",
+    "releases": [
+      {
+        "version": "0.0.3",
+        "url": "https://github.com/tom-seqera/nf-hola/releases/download/0.0.3/nf-hola-0.0.3.zip",
+        "date": "2025-01-24T09:37:47.237719Z",
+        "sha512sum": "f8fff68084bfac64ea3d8ee7dbb115b4c984f8027acbc8941727cb8b47fc4569dea5d688ce195648fe3c1c0d141397893c90209236d1ce2ada48049d201ce9bb",
+        "requires": ">=25.01.0"
+      }
+    ]
   }
 ]
